@@ -1,0 +1,13 @@
+{
+  "UserEvents": {
+    "cbdc59e5402bd583a96a99de1ecc9c46f96199fda7da0ba76b11269f0fadae29": [
+      {
+        "NewName": null,
+        "OldName": "ItemSlot (ColoredRectangle).Button DropButton in ItemSlot (ColoredRectangle)",
+        "ElementType": "Components",
+        "EventType": 6,
+        "TimestampUtc": "2026-06-03T00:27:44.5712125Z"
+      }
+    ]
+  }
+}
