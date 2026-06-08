@@ -8,4 +8,4 @@ to run game open decided version folder and navige to first cryptid_cove.exe
 
 ERROR I KNOW Of
 
-fullscreen bugs out all the time,please test in windowed mode for the time being 
+FULLSCREEN FIXED IN 1.0.2 //Added resolution menu to setting stab 
