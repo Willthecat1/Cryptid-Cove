@@ -8,4 +8,4 @@ to run game open decided version folder and navige to first cryptid_cove.exe
 
 ERROR I KNOW Of
 
-fullscreen bugs out all the time
+fullscreen bugs out all the time,please test in windowed mode for the time being 
