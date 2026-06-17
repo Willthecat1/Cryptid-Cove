@@ -8,16 +8,17 @@ to run game open decided version folder and navige to first cryptid_cove.exe
 
 ERROR I KNOW Of
 
-FULLSCREEN FIXED IN 1.0.2 //Added resolution menu to settings tab
+FULLSCREEN broken, added resolution menu to settings tab // FIXED IN 1.0.2 
 
-Settings buttons Still working in inventroy FIXED 1.0.3
+Settings buttons Still working in inventroy //FIXED 1.0.3
 
+Inventory overflow handler //Fixed 1.0.4
 
 TO DO LIST
 1. fix plant growth growing all plants at same speed and then staying grown when planted again
        1.5. make plant placment drag to plant and click per tile, 
 2. build tutorial info to help navitage world for testers and futrue players
-3.inventory overflow handler
+inventory overflow handler
 4.y-sorting broken of items 
 
 
