@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComponentSave xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Name>HotbarSlot</Name>
+  <BaseType>ColoredRectangle</BaseType>
+  <State>
+    <Name>Default</Name>
+    <Variable Type="int" Name="ActiveIndicator.Alpha" SetsValue="true">
+      <Value xsi:type="xsd:int">240</Value>
+    </Variable>
+    <Variable Type="int" Name="ActiveIndicator.Blue" SetsValue="true">
+      <Value xsi:type="xsd:int">77</Value>
+    </Variable>
+    <Variable Type="int" Name="ActiveIndicator.Green" SetsValue="true">
+      <Value xsi:type="xsd:int">196</Value>
+    </Variable>
+    <Variable Type="float" Name="ActiveIndicator.Height" SetsValue="true">
+      <Value xsi:type="xsd:float">56</Value>
+    </Variable>
+    <Variable Type="int" Name="ActiveIndicator.Red" SetsValue="true">
+      <Value xsi:type="xsd:int">247</Value>
+    </Variable>
+    <Variable Type="bool" Name="ActiveIndicator.Visible" SetsValue="true">
+      <Value xsi:type="xsd:boolean">false</Value>
+    </Variable>
+    <Variable Type="float" Name="ActiveIndicator.Width" SetsValue="true">
+      <Value xsi:type="xsd:float">56</Value>
+    </Variable>
+    <Variable Type="float" Name="ActiveIndicator.X" SetsValue="true">
+      <Value xsi:type="xsd:float">0</Value>
+    </Variable>
+    <Variable Type="float" Name="ActiveIndicator.Y" SetsValue="true">
+      <Value xsi:type="xsd:float">0</Value>
+    </Variable>
+    <Variable Type="int" Name="Alpha" SetsValue="true">
+      <Value xsi:type="xsd:int">220</Value>
+    </Variable>
+    <Variable Type="int" Name="Blue" SetsValue="true">
+      <Value xsi:type="xsd:int">47</Value>
+    </Variable>
+    <Variable Type="int" Name="Green" SetsValue="true">
+      <Value xsi:type="xsd:int">36</Value>
+    </Variable>
+    <Variable Type="float" Name="Height" SetsValue="true">
+      <Value xsi:type="xsd:float">56</Value>
+    </Variable>
+    <Variable Type="float" Name="IconAnchor.Height" SetsValue="true">
+      <Value xsi:type="xsd:float">50</Value>
+    </Variable>
+    <Variable Type="float" Name="IconAnchor.Width" SetsValue="true">
+      <Value xsi:type="xsd:float">50</Value>
+    </Variable>
+    <Variable Type="float" Name="IconAnchor.X" SetsValue="true">
+      <Value xsi:type="xsd:float">-25</Value>
+    </Variable>
+    <Variable Type="PositionUnitType" Name="IconAnchor.XUnits" SetsValue="true">
+      <Value xsi:type="xsd:int">6</Value>
+    </Variable>
+    <Variable Type="float" Name="IconAnchor.Y" SetsValue="true">
+      <Value xsi:type="xsd:float">-26</Value>
+    </Variable>
+    <Variable Type="PositionUnitType" Name="IconAnchor.YUnits" SetsValue="true">
+      <Value xsi:type="xsd:int">7</Value>
+    </Variable>
+    <Variable IsFont="true" Type="string" Name="QuantityText.Font" SetsValue="true">
+      <Value xsi:type="xsd:string">Bahnschrift SemiBold</Value>
+    </Variable>
+    <Variable Type="int" Name="QuantityText.FontSize" SetsValue="true">
+      <Value xsi:type="xsd:int">14</Value>
+    </Variable>
+    <Variable Type="float" Name="QuantityText.Height" SetsValue="true">
+      <Value xsi:type="xsd:float">18</Value>
+    </Variable>
+    <Variable Type="HorizontalAlignment" Name="QuantityText.HorizontalAlignment" SetsValue="true">
+      <Value xsi:type="xsd:int">2</Value>
+    </Variable>
+    <Variable Type="string" Name="QuantityText.Parent" SetsValue="true" />
+    <Variable Type="TextOverflowHorizontalMode" Name="QuantityText.TextOverflowHorizontalMode" SetsValue="true">
+      <Value xsi:type="xsd:int">0</Value>
+    </Variable>
+    <Variable Type="TextOverflowVerticalMode" Name="QuantityText.TextOverflowVerticalMode" SetsValue="true">
+      <Value xsi:type="xsd:int">1</Value>
+    </Variable>
+    <Variable Type="bool" Name="QuantityText.UseFontSmoothing" SetsValue="true">
+      <Value xsi:type="xsd:boolean">false</Value>
+    </Variable>
+    <Variable Type="float" Name="QuantityText.Width" SetsValue="true">
+      <Value xsi:type="xsd:float">37</Value>
+    </Variable>
+    <Variable Type="float" Name="QuantityText.X" SetsValue="true">
+      <Value xsi:type="xsd:float">-14</Value>
+    </Variable>
+    <Variable Type="PositionUnitType" Name="QuantityText.XUnits" SetsValue="true">
+      <Value xsi:type="xsd:int">6</Value>
+    </Variable>
+    <Variable Type="float" Name="QuantityText.Y" SetsValue="true">
+      <Value xsi:type="xsd:float">12</Value>
+    </Variable>
+    <Variable Type="PositionUnitType" Name="QuantityText.YUnits" SetsValue="true">
+      <Value xsi:type="xsd:int">7</Value>
+    </Variable>
+    <Variable Type="int" Name="Red" SetsValue="true">
+      <Value xsi:type="xsd:int">30</Value>
+    </Variable>
+    <Variable Type="State" Name="State" Category="States and Visibility" SetsValue="false">
+      <Value xsi:type="xsd:string">Default</Value>
+    </Variable>
+    <Variable Type="float" Name="Width" SetsValue="true">
+      <Value xsi:type="xsd:float">56</Value>
+    </Variable>
+  </State>
+  <Instance Name="ActiveIndicator" BaseType="ColoredRectangle" />
+  <Instance Name="QuantityText" BaseType="Text" />
+  <Instance Name="IconAnchor" BaseType="Container" />
+  <Behaviors />
+</ComponentSave>

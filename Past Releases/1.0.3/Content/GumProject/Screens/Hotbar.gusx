@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScreenSave xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Name>Hotbar</Name>
+  <State>
+    <Name>Default</Name>
+    <Variable Type="float" Name="HotbarSlotInstance.Height" SetsValue="true">
+      <Value xsi:type="xsd:float">56</Value>
+    </Variable>
+    <Variable Type="float" Name="HotbarSlotInstance.Width" SetsValue="true">
+      <Value xsi:type="xsd:float">56</Value>
+    </Variable>
+    <Variable Type="float" Name="HotbarSlotInstance.X" SetsValue="true">
+      <Value xsi:type="xsd:float">-323</Value>
+    </Variable>
+    <Variable Type="PositionUnitType" Name="HotbarSlotInstance.XUnits" SetsValue="true">
+      <Value xsi:type="xsd:int">6</Value>
+    </Variable>
+    <Variable Type="float" Name="HotbarSlotInstance.Y" SetsValue="true">
+      <Value xsi:type="xsd:float">94.33335</Value>
+    </Variable>
+    <Variable Type="PositionUnitType" Name="HotbarSlotInstance.YUnits" SetsValue="true">
+      <Value xsi:type="xsd:int">3</Value>
+    </Variable>
+    <Variable Type="float" Name="HotbarSlotInstance1.X" SetsValue="true">
+      <Value xsi:type="xsd:float">-259</Value>
+    </Variable>
+    <Variable Type="PositionUnitType" Name="HotbarSlotInstance1.XUnits" SetsValue="true">
+      <Value xsi:type="xsd:int">6</Value>
+    </Variable>
+    <Variable Type="float" Name="HotbarSlotInstance1.Y" SetsValue="true">
+      <Value xsi:type="xsd:float">94.33335</Value>
+    </Variable>
+    <Variable Type="PositionUnitType" Name="HotbarSlotInstance1.YUnits" SetsValue="true">
+      <Value xsi:type="xsd:int">3</Value>
+    </Variable>
+    <Variable Type="float" Name="HotbarSlotInstance2.X" SetsValue="true">
+      <Value xsi:type="xsd:float">-195</Value>
+    </Variable>
+    <Variable Type="PositionUnitType" Name="HotbarSlotInstance2.XUnits" SetsValue="true">
+      <Value xsi:type="xsd:int">6</Value>
+    </Variable>
+    <Variable Type="float" Name="HotbarSlotInstance2.Y" SetsValue="true">
+      <Value xsi:type="xsd:float">94.33335</Value>
+    </Variable>
+    <Variable Type="PositionUnitType" Name="HotbarSlotInstance2.YUnits" SetsValue="true">
+      <Value xsi:type="xsd:int">3</Value>
+    </Variable>
+    <Variable Type="float" Name="HotbarSlotInstance3.X" SetsValue="true">
+      <Value xsi:type="xsd:float">-131</Value>
+    </Variable>
+    <Variable Type="PositionUnitType" Name="HotbarSlotInstance3.XUnits" SetsValue="true">
+      <Value xsi:type="xsd:int">6</Value>
+    </Variable>
+    <Variable Type="float" Name="HotbarSlotInstance3.Y" SetsValue="true">
+      <Value xsi:type="xsd:float">94.33335</Value>
+    </Variable>
+    <Variable Type="PositionUnitType" Name="HotbarSlotInstance3.YUnits" SetsValue="true">
+      <Value xsi:type="xsd:int">3</Value>
+    </Variable>
+    <Variable Type="float" Name="HotbarSlotInstance4.X" SetsValue="true">
+      <Value xsi:type="xsd:float">-67</Value>
+    </Variable>
+    <Variable Type="PositionUnitType" Name="HotbarSlotInstance4.XUnits" SetsValue="true">
+      <Value xsi:type="xsd:int">6</Value>
+    </Variable>
+    <Variable Type="float" Name="HotbarSlotInstance4.Y" SetsValue="true">
+      <Value xsi:type="xsd:float">94.33335</Value>
+    </Variable>
+    <Variable Type="PositionUnitType" Name="HotbarSlotInstance4.YUnits" SetsValue="true">
+      <Value xsi:type="xsd:int">3</Value>
+    </Variable>
+    <Variable Type="float" Name="HotbarSlotInstance5.X" SetsValue="true">
+      <Value xsi:type="xsd:float">-3</Value>
+    </Variable>
+    <Variable Type="PositionUnitType" Name="HotbarSlotInstance5.XUnits" SetsValue="true">
+      <Value xsi:type="xsd:int">6</Value>
+    </Variable>
+    <Variable Type="float" Name="HotbarSlotInstance5.Y" SetsValue="true">
+      <Value xsi:type="xsd:float">94.33335</Value>
+    </Variable>
+    <Variable Type="PositionUnitType" Name="HotbarSlotInstance5.YUnits" SetsValue="true">
+      <Value xsi:type="xsd:int">3</Value>
+    </Variable>
+    <Variable Type="float" Name="HotbarSlotInstance6.X" SetsValue="true">
+      <Value xsi:type="xsd:float">61</Value>
+    </Variable>
+    <Variable Type="PositionUnitType" Name="HotbarSlotInstance6.XUnits" SetsValue="true">
+      <Value xsi:type="xsd:int">6</Value>
+    </Variable>
+    <Variable Type="float" Name="HotbarSlotInstance6.Y" SetsValue="true">
+      <Value xsi:type="xsd:float">94.33335</Value>
+    </Variable>
+    <Variable Type="PositionUnitType" Name="HotbarSlotInstance6.YUnits" SetsValue="true">
+      <Value xsi:type="xsd:int">3</Value>
+    </Variable>
+    <Variable Type="float" Name="HotbarSlotInstance7.X" SetsValue="true">
+      <Value xsi:type="xsd:float">125</Value>
+    </Variable>
+    <Variable Type="PositionUnitType" Name="HotbarSlotInstance7.XUnits" SetsValue="true">
+      <Value xsi:type="xsd:int">6</Value>
+    </Variable>
+    <Variable Type="float" Name="HotbarSlotInstance7.Y" SetsValue="true">
+      <Value xsi:type="xsd:float">94.33335</Value>
+    </Variable>
+    <Variable Type="PositionUnitType" Name="HotbarSlotInstance7.YUnits" SetsValue="true">
+      <Value xsi:type="xsd:int">3</Value>
+    </Variable>
+    <Variable Type="float" Name="HotbarSlotInstance8.X" SetsValue="true">
+      <Value xsi:type="xsd:float">189</Value>
+    </Variable>
+    <Variable Type="PositionUnitType" Name="HotbarSlotInstance8.XUnits" SetsValue="true">
+      <Value xsi:type="xsd:int">6</Value>
+    </Variable>
+    <Variable Type="float" Name="HotbarSlotInstance8.Y" SetsValue="true">
+      <Value xsi:type="xsd:float">94.33335</Value>
+    </Variable>
+    <Variable Type="PositionUnitType" Name="HotbarSlotInstance8.YUnits" SetsValue="true">
+      <Value xsi:type="xsd:int">3</Value>
+    </Variable>
+    <Variable Type="float" Name="HotbarSlotInstance9.X" SetsValue="true">
+      <Value xsi:type="xsd:float">253</Value>
+    </Variable>
+    <Variable Type="PositionUnitType" Name="HotbarSlotInstance9.XUnits" SetsValue="true">
+      <Value xsi:type="xsd:int">6</Value>
+    </Variable>
+    <Variable Type="float" Name="HotbarSlotInstance9.Y" SetsValue="true">
+      <Value xsi:type="xsd:float">94.33335</Value>
+    </Variable>
+    <Variable Type="PositionUnitType" Name="HotbarSlotInstance9.YUnits" SetsValue="true">
+      <Value xsi:type="xsd:int">3</Value>
+    </Variable>
+  </State>
+  <Instance Name="HotbarSlotInstance" BaseType="HotbarSlot" />
+  <Instance Name="HotbarSlotInstance1" BaseType="HotbarSlot" />
+  <Instance Name="HotbarSlotInstance2" BaseType="HotbarSlot" />
+  <Instance Name="HotbarSlotInstance3" BaseType="HotbarSlot" />
+  <Instance Name="HotbarSlotInstance4" BaseType="HotbarSlot" />
+  <Instance Name="HotbarSlotInstance5" BaseType="HotbarSlot" />
+  <Instance Name="HotbarSlotInstance6" BaseType="HotbarSlot" />
+  <Instance Name="HotbarSlotInstance7" BaseType="HotbarSlot" />
+  <Instance Name="HotbarSlotInstance8" BaseType="HotbarSlot" />
+  <Instance Name="HotbarSlotInstance9" BaseType="HotbarSlot" />
+  <Behaviors />
+</ScreenSave>
