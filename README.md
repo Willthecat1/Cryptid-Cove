@@ -4,6 +4,8 @@ This Saves to a point in "AppData\Local\CryptidCove" -- to resart delet save.jso
 to run game open decided version folder and navige to first cryptid_cove.exe
 
 
+please email cryptidcovesupport@gmail.com for support
+
 
 
 ERROR I KNOW Of
@@ -18,8 +20,7 @@ fix plant growth growing all plants at same speed and then staying grown when pl
 
 
 TO DO LIST
-
-       1.5. make plant placment drag to plant and click per tile, 
+1.5. make plant placment drag to plant and click per tile, 
 2. build tutorial info to help navitage world for testers and futrue players
 inventory overflow handler
 
