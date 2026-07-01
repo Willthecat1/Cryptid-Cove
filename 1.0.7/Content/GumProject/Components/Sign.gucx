@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComponentSave xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Name>Sign</Name>
+  <BaseType>Container</BaseType>
+  <State>
+    <Name>Default</Name>
+    <Variable Type="State" Name="State" Category="States and Visibility" SetsValue="false">
+      <Value xsi:type="xsd:string">Default</Value>
+    </Variable>
+    <Variable Type="float" Name="welcomesign.Height" SetsValue="true">
+      <Value xsi:type="xsd:float">394.28574</Value>
+    </Variable>
+    <Variable IsFile="true" Type="string" Name="welcomesign.SourceFile" SetsValue="true">
+      <Value xsi:type="xsd:string">..\graphics\ui\welcomesign.png</Value>
+    </Variable>
+    <Variable Type="float" Name="welcomesign.Width" SetsValue="true">
+      <Value xsi:type="xsd:float">439.2156</Value>
+    </Variable>
+    <Variable Type="float" Name="welcomesign.X" SetsValue="true">
+      <Value xsi:type="xsd:float">21</Value>
+    </Variable>
+    <Variable Type="float" Name="welcomesign.Y" SetsValue="true">
+      <Value xsi:type="xsd:float">5</Value>
+    </Variable>
+  </State>
+  <Instance Name="welcomesign" BaseType="Sprite" />
+  <Behaviors />
+</ComponentSave>
