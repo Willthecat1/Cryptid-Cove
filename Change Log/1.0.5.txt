@@ -1,2 +1,0 @@
-1. making corn closer to final behavior and cleaning
-2.cleaning spawn item list, no items deleted can still be added through save munipulation 

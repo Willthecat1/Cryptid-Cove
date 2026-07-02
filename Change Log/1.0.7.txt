@@ -1,5 +1,0 @@
-Renovating map -- axe hidden in cave 
-Collidable doors 
-seed vending machine
-
-tilled tile texture testing 
