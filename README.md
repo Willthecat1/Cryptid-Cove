@@ -9,12 +9,6 @@ Magical automation, farming, **cryptids** and more ...... stay tuned, i look fow
 
 
 
-
-
-
-
-
-
 ### Installation Instructions
 
 to run game open decided version folder and navige to first cryptid_cove.exe
