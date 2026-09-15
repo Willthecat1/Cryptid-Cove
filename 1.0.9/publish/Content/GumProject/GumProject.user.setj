@@ -1,0 +1,14 @@
+{
+  "TreeViewState": {
+    "ExpandedNodes": [
+      "Screens",
+      "Screens/Inventory",
+      "Screens/Inventory/SettingsPage",
+      "Screens/SellingBox",
+      "Screens/SellingBox/InventoryPage",
+      "Screens/SellingBox/InventoryPage/ColoredRectangleInstance",
+      "Components",
+      "Standard"
+    ]
+  }
+}

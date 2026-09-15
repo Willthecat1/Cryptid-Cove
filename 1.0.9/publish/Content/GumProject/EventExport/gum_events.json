@@ -1,0 +1,1070 @@
+{
+  "UserEvents": {
+    "cbdc59e5402bd583a96a99de1ecc9c46f96199fda7da0ba76b11269f0fadae29": [
+      {
+        "NewName": "SellingBox",
+        "OldName": null,
+        "ElementType": "Screens",
+        "EventType": 0,
+        "TimestampUtc": "2026-08-02T01:22:29.2120343Z"
+      },
+      {
+        "NewName": "SellingBox.InventoryPage",
+        "OldName": null,
+        "ElementType": "Screens",
+        "EventType": 5,
+        "TimestampUtc": "2026-08-02T01:22:36.6270671Z"
+      },
+      {
+        "NewName": "SellingBox.ItemSlotInstance",
+        "OldName": null,
+        "ElementType": "Screens",
+        "EventType": 5,
+        "TimestampUtc": "2026-08-02T01:22:36.6478696Z"
+      },
+      {
+        "NewName": "SellingBox.ItemSlotInstance1",
+        "OldName": null,
+        "ElementType": "Screens",
+        "EventType": 5,
+        "TimestampUtc": "2026-08-02T01:22:36.6623857Z"
+      },
+      {
+        "NewName": "SellingBox.ItemSlotInstance2",
+        "OldName": null,
+        "ElementType": "Screens",
+        "EventType": 5,
+        "TimestampUtc": "2026-08-02T01:22:36.6771679Z"
+      },
+      {
+        "NewName": "SellingBox.ItemSlotInstance3",
+        "OldName": null,
+        "ElementType": "Screens",
+        "EventType": 5,
+        "TimestampUtc": "2026-08-02T01:22:36.6916534Z"
+      },
+      {
+        "NewName": "SellingBox.ItemSlotInstance4",
+        "OldName": null,
+        "ElementType": "Screens",
+        "EventType": 5,
+        "TimestampUtc": "2026-08-02T01:22:36.7063533Z"
+      },
+      {
+        "NewName": "SellingBox.ItemSlotInstance5",
+        "OldName": null,
+        "ElementType": "Screens",
+        "EventType": 5,
+        "TimestampUtc": "2026-08-02T01:22:36.722769Z"
+      },
+      {
+        "NewName": "SellingBox.ItemSlotInstance6",
+        "OldName": null,
+        "ElementType": "Screens",
+        "EventType": 5,
+        "TimestampUtc": "2026-08-02T01:22:36.7403839Z"
+      },
+      {
+        "NewName": "SellingBox.ItemSlotInstance7",
+        "OldName": null,
+        "ElementType": "Screens",
+        "EventType": 5,
+        "TimestampUtc": "2026-08-02T01:22:36.7550233Z"
+      },
+      {
+        "NewName": "SellingBox.ItemSlotInstance8",
+        "OldName": null,
+        "ElementType": "Screens",
+        "EventType": 5,
+        "TimestampUtc": "2026-08-02T01:22:36.7703773Z"
+      },
+      {
+        "NewName": "SellingBox.ItemSlotInstance9",
+        "OldName": null,
+        "ElementType": "Screens",
+        "EventType": 5,
+        "TimestampUtc": "2026-08-02T01:22:36.7869176Z"
+      },
+      {
+        "NewName": "SellingBox.ItemSlotInstance10",
+        "OldName": null,
+        "ElementType": "Screens",
+        "EventType": 5,
+        "TimestampUtc": "2026-08-02T01:22:36.8018324Z"
+      },
+      {
+        "NewName": "SellingBox.ItemSlotInstance11",
+        "OldName": null,
+        "ElementType": "Screens",
+        "EventType": 5,
+        "TimestampUtc": "2026-08-02T01:22:36.8174753Z"
+      },
+      {
+        "NewName": "SellingBox.ItemSlotInstance12",
+        "OldName": null,
+        "ElementType": "Screens",
+        "EventType": 5,
+        "TimestampUtc": "2026-08-02T01:22:36.8325046Z"
+      },
+      {
+        "NewName": "SellingBox.ItemSlotInstance13",
+        "OldName": null,
+        "ElementType": "Screens",
+        "EventType": 5,
+        "TimestampUtc": "2026-08-02T01:22:36.8473885Z"
+      },
+      {
+        "NewName": "SellingBox.ItemSlotInstance14",
+        "OldName": null,
+        "ElementType": "Screens",
+        "EventType": 5,
+        "TimestampUtc": "2026-08-02T01:22:36.861985Z"
+      },
+      {
+        "NewName": "SellingBox.ItemSlotInstance15",
+        "OldName": null,
+        "ElementType": "Screens",
+        "EventType": 5,
+        "TimestampUtc": "2026-08-02T01:22:36.879586Z"
+      },
+      {
+        "NewName": "SellingBox.ItemSlotInstance16",
+        "OldName": null,
+        "ElementType": "Screens",
+        "EventType": 5,
+        "TimestampUtc": "2026-08-02T01:22:36.894259Z"
+      },
+      {
+        "NewName": "SellingBox.ItemSlotInstance17",
+        "OldName": null,
+        "ElementType": "Screens",
+        "EventType": 5,
+        "TimestampUtc": "2026-08-02T01:22:36.9138956Z"
+      },
+      {
+        "NewName": "SellingBox.ItemSlotInstance18",
+        "OldName": null,
+        "ElementType": "Screens",
+        "EventType": 5,
+        "TimestampUtc": "2026-08-02T01:22:36.9290377Z"
+      },
+      {
+        "NewName": "SellingBox.ItemSlotInstance19",
+        "OldName": null,
+        "ElementType": "Screens",
+        "EventType": 5,
+        "TimestampUtc": "2026-08-02T01:22:36.9445419Z"
+      },
+      {
+        "NewName": "SellingBox.ItemSlotInstance20",
+        "OldName": null,
+        "ElementType": "Screens",
+        "EventType": 5,
+        "TimestampUtc": "2026-08-02T01:22:36.9596945Z"
+      },
+      {
+        "NewName": "SellingBox.ItemSlotInstance21",
+        "OldName": null,
+        "ElementType": "Screens",
+        "EventType": 5,
+        "TimestampUtc": "2026-08-02T01:22:36.9792322Z"
+      },
+      {
+        "NewName": "SellingBox.ItemSlotInstance22",
+        "OldName": null,
+        "ElementType": "Screens",
+        "EventType": 5,
+        "TimestampUtc": "2026-08-02T01:22:36.9986043Z"
+      },
+      {
+        "NewName": "SellingBox.ItemSlotInstance23",
+        "OldName": null,
+        "ElementType": "Screens",
+        "EventType": 5,
+        "TimestampUtc": "2026-08-02T01:22:37.0158384Z"
+      },
+      {
+        "NewName": "SellingBox.ItemSlotInstance24",
+        "OldName": null,
+        "ElementType": "Screens",
+        "EventType": 5,
+        "TimestampUtc": "2026-08-02T01:22:37.031427Z"
+      },
+      {
+        "NewName": "SellingBox.ItemSlotInstance25",
+        "OldName": null,
+        "ElementType": "Screens",
+        "EventType": 5,
+        "TimestampUtc": "2026-08-02T01:22:37.0459357Z"
+      },
+      {
+        "NewName": "SellingBox.ItemSlotInstance26",
+        "OldName": null,
+        "ElementType": "Screens",
+        "EventType": 5,
+        "TimestampUtc": "2026-08-02T01:22:37.0604198Z"
+      },
+      {
+        "NewName": "SellingBox.ItemSlotInstance27",
+        "OldName": null,
+        "ElementType": "Screens",
+        "EventType": 5,
+        "TimestampUtc": "2026-08-02T01:22:37.0753613Z"
+      },
+      {
+        "NewName": "SellingBox.ItemSlotInstance28",
+        "OldName": null,
+        "ElementType": "Screens",
+        "EventType": 5,
+        "TimestampUtc": "2026-08-02T01:22:37.0905687Z"
+      },
+      {
+        "NewName": "SellingBox.ItemSlotInstance29",
+        "OldName": null,
+        "ElementType": "Screens",
+        "EventType": 5,
+        "TimestampUtc": "2026-08-02T01:22:37.1061333Z"
+      },
+      {
+        "NewName": "SellingBox.ItemSlotInstance30",
+        "OldName": null,
+        "ElementType": "Screens",
+        "EventType": 5,
+        "TimestampUtc": "2026-08-02T01:22:37.121645Z"
+      },
+      {
+        "NewName": "SellingBox.ItemSlotInstance31",
+        "OldName": null,
+        "ElementType": "Screens",
+        "EventType": 5,
+        "TimestampUtc": "2026-08-02T01:22:37.1364959Z"
+      },
+      {
+        "NewName": "SellingBox.ItemSlotInstance32",
+        "OldName": null,
+        "ElementType": "Screens",
+        "EventType": 5,
+        "TimestampUtc": "2026-08-02T01:22:37.1513493Z"
+      },
+      {
+        "NewName": "SellingBox.ItemSlotInstance33",
+        "OldName": null,
+        "ElementType": "Screens",
+        "EventType": 5,
+        "TimestampUtc": "2026-08-02T01:22:37.1666198Z"
+      },
+      {
+        "NewName": "SellingBox.ItemSlotInstance34",
+        "OldName": null,
+        "ElementType": "Screens",
+        "EventType": 5,
+        "TimestampUtc": "2026-08-02T01:22:37.1819159Z"
+      },
+      {
+        "NewName": "SellingBox.ItemSlotInstance35",
+        "OldName": null,
+        "ElementType": "Screens",
+        "EventType": 5,
+        "TimestampUtc": "2026-08-02T01:22:37.1970156Z"
+      },
+      {
+        "NewName": "SellingBox.ItemSlotInstance36",
+        "OldName": null,
+        "ElementType": "Screens",
+        "EventType": 5,
+        "TimestampUtc": "2026-08-02T01:22:37.2165312Z"
+      },
+      {
+        "NewName": "SellingBox.ItemSlotInstance37",
+        "OldName": null,
+        "ElementType": "Screens",
+        "EventType": 5,
+        "TimestampUtc": "2026-08-02T01:22:37.2330829Z"
+      },
+      {
+        "NewName": "SellingBox.ItemSlotInstance38",
+        "OldName": null,
+        "ElementType": "Screens",
+        "EventType": 5,
+        "TimestampUtc": "2026-08-02T01:22:37.2497152Z"
+      },
+      {
+        "NewName": "SellingBox.ItemSlotInstance39",
+        "OldName": null,
+        "ElementType": "Screens",
+        "EventType": 5,
+        "TimestampUtc": "2026-08-02T01:22:37.2659584Z"
+      },
+      {
+        "NewName": "SellingBox.ItemSlotInstance40",
+        "OldName": null,
+        "ElementType": "Screens",
+        "EventType": 5,
+        "TimestampUtc": "2026-08-02T01:25:19.4998423Z"
+      },
+      {
+        "NewName": null,
+        "OldName": "SellingBox.ItemSlot ItemSlotInstance40 in SellingBox",
+        "ElementType": "Screens",
+        "EventType": 6,
+        "TimestampUtc": "2026-08-02T01:25:36.1643528Z"
+      },
+      {
+        "NewName": "SellingBox.ItemSlotInstance40",
+        "OldName": null,
+        "ElementType": "Screens",
+        "EventType": 5,
+        "TimestampUtc": "2026-08-02T01:25:46.9920705Z"
+      },
+      {
+        "NewName": null,
+        "OldName": "SellingBox.ItemSlot ItemSlotInstance40 in SellingBox",
+        "ElementType": "Screens",
+        "EventType": 6,
+        "TimestampUtc": "2026-08-02T01:26:03.5341536Z"
+      },
+      {
+        "NewName": "SellingBox.ColoredRectangleInstance",
+        "OldName": null,
+        "ElementType": "Screens",
+        "EventType": 5,
+        "TimestampUtc": "2026-08-02T01:26:19.2143681Z"
+      },
+      {
+        "NewName": "SellingBox.TextInstance",
+        "OldName": null,
+        "ElementType": "Screens",
+        "EventType": 5,
+        "TimestampUtc": "2026-08-02T01:27:04.5814405Z"
+      },
+      {
+        "NewName": "SellingBox.SellingText",
+        "OldName": "SellingBox.TextInstance",
+        "ElementType": "Screens",
+        "EventType": 7,
+        "TimestampUtc": "2026-08-02T01:29:07.0654845Z"
+      },
+      {
+        "NewName": "SellingBox.ItemSlotInstance40",
+        "OldName": null,
+        "ElementType": "Screens",
+        "EventType": 5,
+        "TimestampUtc": "2026-08-02T01:29:14.4700213Z"
+      },
+      {
+        "NewName": "SellingBox.SellingSlot1",
+        "OldName": "SellingBox.ItemSlotInstance40",
+        "ElementType": "Screens",
+        "EventType": 7,
+        "TimestampUtc": "2026-08-02T01:29:23.4647443Z"
+      },
+      {
+        "NewName": "SellingBox.SellingSlot2",
+        "OldName": null,
+        "ElementType": "Screens",
+        "EventType": 5,
+        "TimestampUtc": "2026-08-02T01:29:34.3136703Z"
+      },
+      {
+        "NewName": "SellingBox.SellingSlot3",
+        "OldName": null,
+        "ElementType": "Screens",
+        "EventType": 5,
+        "TimestampUtc": "2026-08-02T01:30:03.9091529Z"
+      },
+      {
+        "NewName": "SellingBox.SellingSlot4",
+        "OldName": null,
+        "ElementType": "Screens",
+        "EventType": 5,
+        "TimestampUtc": "2026-08-02T01:30:13.8725593Z"
+      },
+      {
+        "NewName": "SellingBox.SellingSlot5",
+        "OldName": null,
+        "ElementType": "Screens",
+        "EventType": 5,
+        "TimestampUtc": "2026-08-02T01:30:46.1279746Z"
+      },
+      {
+        "NewName": "SellingBox.SellingSlot6",
+        "OldName": null,
+        "ElementType": "Screens",
+        "EventType": 5,
+        "TimestampUtc": "2026-08-02T01:30:46.1500209Z"
+      },
+      {
+        "NewName": "SellingBox.SellingSlot7",
+        "OldName": null,
+        "ElementType": "Screens",
+        "EventType": 5,
+        "TimestampUtc": "2026-08-02T01:30:46.1755346Z"
+      },
+      {
+        "NewName": "SellingBox.SellingSlot8",
+        "OldName": null,
+        "ElementType": "Screens",
+        "EventType": 5,
+        "TimestampUtc": "2026-08-02T01:30:46.1912514Z"
+      },
+      {
+        "NewName": "SellingBox.SellingSlot9",
+        "OldName": null,
+        "ElementType": "Screens",
+        "EventType": 5,
+        "TimestampUtc": "2026-08-02T01:31:39.1838974Z"
+      },
+      {
+        "NewName": "SellingBox.SellingSlot10",
+        "OldName": null,
+        "ElementType": "Screens",
+        "EventType": 5,
+        "TimestampUtc": "2026-08-02T01:31:39.2096598Z"
+      },
+      {
+        "NewName": "SellingBox.SellingSlot11",
+        "OldName": null,
+        "ElementType": "Screens",
+        "EventType": 5,
+        "TimestampUtc": "2026-08-02T01:31:39.2375383Z"
+      },
+      {
+        "NewName": "SellingBox.SellingSlot12",
+        "OldName": null,
+        "ElementType": "Screens",
+        "EventType": 5,
+        "TimestampUtc": "2026-08-02T01:31:39.258061Z"
+      },
+      {
+        "NewName": "SellingBox.SellingSlot13",
+        "OldName": null,
+        "ElementType": "Screens",
+        "EventType": 5,
+        "TimestampUtc": "2026-08-02T01:32:08.3428969Z"
+      },
+      {
+        "NewName": "SellingBox.SellingSlot14",
+        "OldName": null,
+        "ElementType": "Screens",
+        "EventType": 5,
+        "TimestampUtc": "2026-08-02T01:32:08.3615206Z"
+      },
+      {
+        "NewName": "SellingBox.SellingSlot15",
+        "OldName": null,
+        "ElementType": "Screens",
+        "EventType": 5,
+        "TimestampUtc": "2026-08-02T01:32:08.3781462Z"
+      },
+      {
+        "NewName": "SellingBox.SellingSlot16",
+        "OldName": null,
+        "ElementType": "Screens",
+        "EventType": 5,
+        "TimestampUtc": "2026-08-02T01:32:08.3946411Z"
+      },
+      {
+        "NewName": "SellingBox.ButtonInstance",
+        "OldName": null,
+        "ElementType": "Screens",
+        "EventType": 5,
+        "TimestampUtc": "2026-08-02T01:32:39.9132604Z"
+      },
+      {
+        "NewName": "SellingBox.SellButton",
+        "OldName": "SellingBox.ButtonInstance",
+        "ElementType": "Screens",
+        "EventType": 7,
+        "TimestampUtc": "2026-08-02T01:32:45.9636367Z"
+      },
+      {
+        "NewName": "SellingBox.FullscreenToggle",
+        "OldName": null,
+        "ElementType": "Screens",
+        "EventType": 5,
+        "TimestampUtc": "2026-08-02T01:33:25.0244352Z"
+      },
+      {
+        "NewName": "SellingBox.SettingsPage",
+        "OldName": null,
+        "ElementType": "Screens",
+        "EventType": 5,
+        "TimestampUtc": "2026-08-02T01:33:36.1415398Z"
+      },
+      {
+        "NewName": "SellingBox.Save",
+        "OldName": null,
+        "ElementType": "Screens",
+        "EventType": 5,
+        "TimestampUtc": "2026-08-02T01:33:36.1601116Z"
+      },
+      {
+        "NewName": "SellingBox.NextDayText",
+        "OldName": null,
+        "ElementType": "Screens",
+        "EventType": 5,
+        "TimestampUtc": "2026-08-02T01:33:36.1786759Z"
+      },
+      {
+        "NewName": "SellingBox.TextInstance",
+        "OldName": null,
+        "ElementType": "Screens",
+        "EventType": 5,
+        "TimestampUtc": "2026-08-02T01:33:36.1970217Z"
+      },
+      {
+        "NewName": "SellingBox.NextDayButton",
+        "OldName": null,
+        "ElementType": "Screens",
+        "EventType": 5,
+        "TimestampUtc": "2026-08-02T01:33:36.2201778Z"
+      },
+      {
+        "NewName": "SellingBox.SaveData",
+        "OldName": null,
+        "ElementType": "Screens",
+        "EventType": 5,
+        "TimestampUtc": "2026-08-02T01:33:36.2422815Z"
+      },
+      {
+        "NewName": "SellingBox.SettingsTab",
+        "OldName": null,
+        "ElementType": "Screens",
+        "EventType": 5,
+        "TimestampUtc": "2026-08-02T01:33:36.2626269Z"
+      },
+      {
+        "NewName": "SellingBox.InventoryTab",
+        "OldName": null,
+        "ElementType": "Screens",
+        "EventType": 5,
+        "TimestampUtc": "2026-08-02T01:33:36.2824542Z"
+      },
+      {
+        "NewName": "SellingBox.TExt",
+        "OldName": null,
+        "ElementType": "Screens",
+        "EventType": 5,
+        "TimestampUtc": "2026-08-02T01:33:36.3015909Z"
+      },
+      {
+        "NewName": "SellingBox.TExt1",
+        "OldName": null,
+        "ElementType": "Screens",
+        "EventType": 5,
+        "TimestampUtc": "2026-08-02T01:33:36.3194206Z"
+      },
+      {
+        "NewName": "SellingBox.ResolutionHeaderText",
+        "OldName": null,
+        "ElementType": "Screens",
+        "EventType": 5,
+        "TimestampUtc": "2026-08-02T01:33:36.3375555Z"
+      },
+      {
+        "NewName": "SellingBox.Res1280x720",
+        "OldName": null,
+        "ElementType": "Screens",
+        "EventType": 5,
+        "TimestampUtc": "2026-08-02T01:33:36.3582699Z"
+      },
+      {
+        "NewName": "SellingBox.ResLabel1280x720",
+        "OldName": null,
+        "ElementType": "Screens",
+        "EventType": 5,
+        "TimestampUtc": "2026-08-02T01:33:36.3776937Z"
+      },
+      {
+        "NewName": "SellingBox.Res1920x1080",
+        "OldName": null,
+        "ElementType": "Screens",
+        "EventType": 5,
+        "TimestampUtc": "2026-08-02T01:33:36.3965146Z"
+      },
+      {
+        "NewName": "SellingBox.ResLabel1920x1080",
+        "OldName": null,
+        "ElementType": "Screens",
+        "EventType": 5,
+        "TimestampUtc": "2026-08-02T01:33:36.4157822Z"
+      },
+      {
+        "NewName": "SellingBox.Res2560x1440",
+        "OldName": null,
+        "ElementType": "Screens",
+        "EventType": 5,
+        "TimestampUtc": "2026-08-02T01:33:36.4348896Z"
+      },
+      {
+        "NewName": "SellingBox.ResLabel2560x1440",
+        "OldName": null,
+        "ElementType": "Screens",
+        "EventType": 5,
+        "TimestampUtc": "2026-08-02T01:33:36.4558432Z"
+      },
+      {
+        "NewName": "SellingBox.Res3840x2160",
+        "OldName": null,
+        "ElementType": "Screens",
+        "EventType": 5,
+        "TimestampUtc": "2026-08-02T01:33:36.4799304Z"
+      },
+      {
+        "NewName": "SellingBox.ResLabel3840x2160",
+        "OldName": null,
+        "ElementType": "Screens",
+        "EventType": 5,
+        "TimestampUtc": "2026-08-02T01:33:36.5063636Z"
+      },
+      {
+        "NewName": null,
+        "OldName": "SellingBox.ItemSlot SellingSlot1 in SellingBox",
+        "ElementType": "Screens",
+        "EventType": 6,
+        "TimestampUtc": "2026-08-02T01:33:37.0769981Z"
+      },
+      {
+        "NewName": null,
+        "OldName": "SellingBox.ItemSlot SellingSlot2 in SellingBox",
+        "ElementType": "Screens",
+        "EventType": 6,
+        "TimestampUtc": "2026-08-02T01:33:37.0788702Z"
+      },
+      {
+        "NewName": null,
+        "OldName": "SellingBox.ItemSlot SellingSlot3 in SellingBox",
+        "ElementType": "Screens",
+        "EventType": 6,
+        "TimestampUtc": "2026-08-02T01:33:37.0937881Z"
+      },
+      {
+        "NewName": null,
+        "OldName": "SellingBox.ItemSlot SellingSlot4 in SellingBox",
+        "ElementType": "Screens",
+        "EventType": 6,
+        "TimestampUtc": "2026-08-02T01:33:37.1098556Z"
+      },
+      {
+        "NewName": null,
+        "OldName": "SellingBox.ItemSlot SellingSlot5 in SellingBox",
+        "ElementType": "Screens",
+        "EventType": 6,
+        "TimestampUtc": "2026-08-02T01:33:37.1317211Z"
+      },
+      {
+        "NewName": null,
+        "OldName": "SellingBox.ItemSlot SellingSlot6 in SellingBox",
+        "ElementType": "Screens",
+        "EventType": 6,
+        "TimestampUtc": "2026-08-02T01:33:37.1550131Z"
+      },
+      {
+        "NewName": null,
+        "OldName": "SellingBox.ItemSlot SellingSlot7 in SellingBox",
+        "ElementType": "Screens",
+        "EventType": 6,
+        "TimestampUtc": "2026-08-02T01:33:37.1773269Z"
+      },
+      {
+        "NewName": null,
+        "OldName": "SellingBox.ItemSlot SellingSlot8 in SellingBox",
+        "ElementType": "Screens",
+        "EventType": 6,
+        "TimestampUtc": "2026-08-02T01:33:37.1914807Z"
+      },
+      {
+        "NewName": null,
+        "OldName": "SellingBox.ItemSlot SellingSlot9 in SellingBox",
+        "ElementType": "Screens",
+        "EventType": 6,
+        "TimestampUtc": "2026-08-02T01:33:37.2059433Z"
+      },
+      {
+        "NewName": null,
+        "OldName": "SellingBox.ItemSlot SellingSlot10 in SellingBox",
+        "ElementType": "Screens",
+        "EventType": 6,
+        "TimestampUtc": "2026-08-02T01:33:37.2201231Z"
+      },
+      {
+        "NewName": null,
+        "OldName": "SellingBox.ItemSlot SellingSlot11 in SellingBox",
+        "ElementType": "Screens",
+        "EventType": 6,
+        "TimestampUtc": "2026-08-02T01:33:37.2360691Z"
+      },
+      {
+        "NewName": null,
+        "OldName": "SellingBox.ItemSlot SellingSlot12 in SellingBox",
+        "ElementType": "Screens",
+        "EventType": 6,
+        "TimestampUtc": "2026-08-02T01:33:37.2523133Z"
+      },
+      {
+        "NewName": null,
+        "OldName": "SellingBox.ItemSlot SellingSlot13 in SellingBox",
+        "ElementType": "Screens",
+        "EventType": 6,
+        "TimestampUtc": "2026-08-02T01:33:37.2746804Z"
+      },
+      {
+        "NewName": null,
+        "OldName": "SellingBox.ItemSlot SellingSlot14 in SellingBox",
+        "ElementType": "Screens",
+        "EventType": 6,
+        "TimestampUtc": "2026-08-02T01:33:37.297869Z"
+      },
+      {
+        "NewName": null,
+        "OldName": "SellingBox.ItemSlot SellingSlot15 in SellingBox",
+        "ElementType": "Screens",
+        "EventType": 6,
+        "TimestampUtc": "2026-08-02T01:33:37.3200232Z"
+      },
+      {
+        "NewName": null,
+        "OldName": "SellingBox.ItemSlot SellingSlot16 in SellingBox",
+        "ElementType": "Screens",
+        "EventType": 6,
+        "TimestampUtc": "2026-08-02T01:33:37.3387037Z"
+      },
+      {
+        "NewName": null,
+        "OldName": "SellingBox.Button SellButton in SellingBox",
+        "ElementType": "Screens",
+        "EventType": 6,
+        "TimestampUtc": "2026-08-02T01:33:37.3552174Z"
+      },
+      {
+        "NewName": null,
+        "OldName": "SellingBox.ColoredRectangle ColoredRectangleInstance in SellingBox",
+        "ElementType": "Screens",
+        "EventType": 6,
+        "TimestampUtc": "2026-08-02T01:33:37.3672203Z"
+      },
+      {
+        "NewName": null,
+        "OldName": "SellingBox.Text SellingText in SellingBox",
+        "ElementType": "Screens",
+        "EventType": 6,
+        "TimestampUtc": "2026-08-02T01:33:37.3815097Z"
+      },
+      {
+        "NewName": "SellingBox.SellingSlot1",
+        "OldName": null,
+        "ElementType": "Screens",
+        "EventType": 5,
+        "TimestampUtc": "2026-08-02T01:34:36.3942474Z"
+      },
+      {
+        "NewName": "SellingBox.SellingSlot2",
+        "OldName": null,
+        "ElementType": "Screens",
+        "EventType": 5,
+        "TimestampUtc": "2026-08-02T01:34:36.402821Z"
+      },
+      {
+        "NewName": "SellingBox.SellingSlot3",
+        "OldName": null,
+        "ElementType": "Screens",
+        "EventType": 5,
+        "TimestampUtc": "2026-08-02T01:34:36.4118041Z"
+      },
+      {
+        "NewName": "SellingBox.SellingSlot4",
+        "OldName": null,
+        "ElementType": "Screens",
+        "EventType": 5,
+        "TimestampUtc": "2026-08-02T01:34:36.430003Z"
+      },
+      {
+        "NewName": "SellingBox.SellingSlot5",
+        "OldName": null,
+        "ElementType": "Screens",
+        "EventType": 5,
+        "TimestampUtc": "2026-08-02T01:34:36.436748Z"
+      },
+      {
+        "NewName": "SellingBox.SellingSlot6",
+        "OldName": null,
+        "ElementType": "Screens",
+        "EventType": 5,
+        "TimestampUtc": "2026-08-02T01:34:36.4494012Z"
+      },
+      {
+        "NewName": "SellingBox.SellingSlot7",
+        "OldName": null,
+        "ElementType": "Screens",
+        "EventType": 5,
+        "TimestampUtc": "2026-08-02T01:34:36.460225Z"
+      },
+      {
+        "NewName": "SellingBox.SellingSlot8",
+        "OldName": null,
+        "ElementType": "Screens",
+        "EventType": 5,
+        "TimestampUtc": "2026-08-02T01:34:36.475176Z"
+      },
+      {
+        "NewName": "SellingBox.SellingSlot9",
+        "OldName": null,
+        "ElementType": "Screens",
+        "EventType": 5,
+        "TimestampUtc": "2026-08-02T01:34:36.4872921Z"
+      },
+      {
+        "NewName": "SellingBox.SellingSlot10",
+        "OldName": null,
+        "ElementType": "Screens",
+        "EventType": 5,
+        "TimestampUtc": "2026-08-02T01:34:36.4993118Z"
+      },
+      {
+        "NewName": "SellingBox.SellingSlot11",
+        "OldName": null,
+        "ElementType": "Screens",
+        "EventType": 5,
+        "TimestampUtc": "2026-08-02T01:34:36.5126128Z"
+      },
+      {
+        "NewName": "SellingBox.SellingSlot12",
+        "OldName": null,
+        "ElementType": "Screens",
+        "EventType": 5,
+        "TimestampUtc": "2026-08-02T01:34:36.5238093Z"
+      },
+      {
+        "NewName": "SellingBox.SellingSlot13",
+        "OldName": null,
+        "ElementType": "Screens",
+        "EventType": 5,
+        "TimestampUtc": "2026-08-02T01:34:36.5366265Z"
+      },
+      {
+        "NewName": "SellingBox.SellingSlot14",
+        "OldName": null,
+        "ElementType": "Screens",
+        "EventType": 5,
+        "TimestampUtc": "2026-08-02T01:34:36.5475845Z"
+      },
+      {
+        "NewName": "SellingBox.SellingSlot15",
+        "OldName": null,
+        "ElementType": "Screens",
+        "EventType": 5,
+        "TimestampUtc": "2026-08-02T01:34:36.5577955Z"
+      },
+      {
+        "NewName": "SellingBox.SellingSlot16",
+        "OldName": null,
+        "ElementType": "Screens",
+        "EventType": 5,
+        "TimestampUtc": "2026-08-02T01:34:36.5701425Z"
+      },
+      {
+        "NewName": "SellingBox.ButtonInstance",
+        "OldName": null,
+        "ElementType": "Screens",
+        "EventType": 5,
+        "TimestampUtc": "2026-08-02T01:34:36.5808369Z"
+      },
+      {
+        "NewName": "SellingBox.ColoredRectangleInstance",
+        "OldName": null,
+        "ElementType": "Screens",
+        "EventType": 5,
+        "TimestampUtc": "2026-08-02T01:34:36.5939834Z"
+      },
+      {
+        "NewName": "SellingBox.SellingText",
+        "OldName": null,
+        "ElementType": "Screens",
+        "EventType": 5,
+        "TimestampUtc": "2026-08-02T01:34:36.6074648Z"
+      },
+      {
+        "NewName": null,
+        "OldName": "SellingBox.Background SettingsPage in SellingBox",
+        "ElementType": "Screens",
+        "EventType": 6,
+        "TimestampUtc": "2026-08-02T01:34:36.7445942Z"
+      },
+      {
+        "NewName": null,
+        "OldName": "SellingBox.Text Save in SellingBox",
+        "ElementType": "Screens",
+        "EventType": 6,
+        "TimestampUtc": "2026-08-02T01:34:36.7467376Z"
+      },
+      {
+        "NewName": null,
+        "OldName": "SellingBox.Text NextDayText in SellingBox",
+        "ElementType": "Screens",
+        "EventType": 6,
+        "TimestampUtc": "2026-08-02T01:34:36.7663641Z"
+      },
+      {
+        "NewName": null,
+        "OldName": "SellingBox.Text TextInstance in SellingBox",
+        "ElementType": "Screens",
+        "EventType": 6,
+        "TimestampUtc": "2026-08-02T01:34:36.7828483Z"
+      },
+      {
+        "NewName": null,
+        "OldName": "SellingBox.Button FullscreenToggle in SellingBox",
+        "ElementType": "Screens",
+        "EventType": 6,
+        "TimestampUtc": "2026-08-02T01:34:36.7965145Z"
+      },
+      {
+        "NewName": null,
+        "OldName": "SellingBox.Button NextDayButton in SellingBox",
+        "ElementType": "Screens",
+        "EventType": 6,
+        "TimestampUtc": "2026-08-02T01:34:36.8101122Z"
+      },
+      {
+        "NewName": null,
+        "OldName": "SellingBox.Button SaveData in SellingBox",
+        "ElementType": "Screens",
+        "EventType": 6,
+        "TimestampUtc": "2026-08-02T01:34:36.8256929Z"
+      },
+      {
+        "NewName": null,
+        "OldName": "SellingBox.Button SettingsTab in SellingBox",
+        "ElementType": "Screens",
+        "EventType": 6,
+        "TimestampUtc": "2026-08-02T01:34:36.8475769Z"
+      },
+      {
+        "NewName": null,
+        "OldName": "SellingBox.Button InventoryTab in SellingBox",
+        "ElementType": "Screens",
+        "EventType": 6,
+        "TimestampUtc": "2026-08-02T01:34:36.8706696Z"
+      },
+      {
+        "NewName": null,
+        "OldName": "SellingBox.Text TExt in SellingBox",
+        "ElementType": "Screens",
+        "EventType": 6,
+        "TimestampUtc": "2026-08-02T01:34:36.8970282Z"
+      },
+      {
+        "NewName": null,
+        "OldName": "SellingBox.Text TExt1 in SellingBox",
+        "ElementType": "Screens",
+        "EventType": 6,
+        "TimestampUtc": "2026-08-02T01:34:36.9204122Z"
+      },
+      {
+        "NewName": null,
+        "OldName": "SellingBox.Text ResolutionHeaderText in SellingBox",
+        "ElementType": "Screens",
+        "EventType": 6,
+        "TimestampUtc": "2026-08-02T01:34:36.9437905Z"
+      },
+      {
+        "NewName": null,
+        "OldName": "SellingBox.Button Res1280x720 in SellingBox",
+        "ElementType": "Screens",
+        "EventType": 6,
+        "TimestampUtc": "2026-08-02T01:34:36.9681199Z"
+      },
+      {
+        "NewName": null,
+        "OldName": "SellingBox.Text ResLabel1280x720 in SellingBox",
+        "ElementType": "Screens",
+        "EventType": 6,
+        "TimestampUtc": "2026-08-02T01:34:36.9915674Z"
+      },
+      {
+        "NewName": null,
+        "OldName": "SellingBox.Button Res1920x1080 in SellingBox",
+        "ElementType": "Screens",
+        "EventType": 6,
+        "TimestampUtc": "2026-08-02T01:34:37.0153634Z"
+      },
+      {
+        "NewName": null,
+        "OldName": "SellingBox.Text ResLabel1920x1080 in SellingBox",
+        "ElementType": "Screens",
+        "EventType": 6,
+        "TimestampUtc": "2026-08-02T01:34:37.0305115Z"
+      },
+      {
+        "NewName": null,
+        "OldName": "SellingBox.Button Res2560x1440 in SellingBox",
+        "ElementType": "Screens",
+        "EventType": 6,
+        "TimestampUtc": "2026-08-02T01:34:37.0437784Z"
+      },
+      {
+        "NewName": null,
+        "OldName": "SellingBox.Text ResLabel2560x1440 in SellingBox",
+        "ElementType": "Screens",
+        "EventType": 6,
+        "TimestampUtc": "2026-08-02T01:34:37.0556157Z"
+      },
+      {
+        "NewName": null,
+        "OldName": "SellingBox.Button Res3840x2160 in SellingBox",
+        "ElementType": "Screens",
+        "EventType": 6,
+        "TimestampUtc": "2026-08-02T01:34:37.0680785Z"
+      },
+      {
+        "NewName": null,
+        "OldName": "SellingBox.Text ResLabel3840x2160 in SellingBox",
+        "ElementType": "Screens",
+        "EventType": 6,
+        "TimestampUtc": "2026-08-02T01:34:37.0829271Z"
+      },
+      {
+        "NewName": null,
+        "OldName": "SellingBox.Button ButtonInstance in SellingBox",
+        "ElementType": "Screens",
+        "EventType": 6,
+        "TimestampUtc": "2026-08-02T01:34:48.7253486Z"
+      },
+      {
+        "NewName": "SellingBox.TextInstance",
+        "OldName": null,
+        "ElementType": "Screens",
+        "EventType": 5,
+        "TimestampUtc": "2026-08-02T01:35:03.7712927Z"
+      },
+      {
+        "NewName": "SellingBox.FullscreenToggle",
+        "OldName": null,
+        "ElementType": "Screens",
+        "EventType": 5,
+        "TimestampUtc": "2026-08-02T01:35:03.7991427Z"
+      },
+      {
+        "NewName": "SellingBox.SellButton",
+        "OldName": "SellingBox.FullscreenToggle",
+        "ElementType": "Screens",
+        "EventType": 7,
+        "TimestampUtc": "2026-08-02T01:35:22.0674496Z"
+      },
+      {
+        "NewName": "SellingBox.SellFor",
+        "OldName": "SellingBox.TextInstance",
+        "ElementType": "Screens",
+        "EventType": 7,
+        "TimestampUtc": "2026-08-02T01:35:41.4970378Z"
+      },
+      {
+        "NewName": "SellingBox.SellForText",
+        "OldName": "SellingBox.SellFor",
+        "ElementType": "Screens",
+        "EventType": 7,
+        "TimestampUtc": "2026-08-02T01:35:44.5469065Z"
+      }
+    ]
+  }
+}
