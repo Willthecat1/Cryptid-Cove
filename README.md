@@ -30,4 +30,8 @@ Ground must be tiled with hoe to plant seeds
 
 please email cryptidcovesupport@gmail.com for support
 
-![alt text](image.png)
+![alt text](Promo1.png)
+
+![alt text](Promo2.png)
+
+![alt text](Promo3.png)
