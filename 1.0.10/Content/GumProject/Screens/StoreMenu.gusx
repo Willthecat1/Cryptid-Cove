@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScreenSave xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Name>StoreMenu</Name>
+  <State>
+    <Name>Default</Name>
+    <Variable Type="int" Name="BackButton.Blue" SetsValue="true">
+      <Value xsi:type="xsd:int">0</Value>
+    </Variable>
+    <Variable Type="int" Name="BackButton.Green" SetsValue="true">
+      <Value xsi:type="xsd:int">197</Value>
+    </Variable>
+    <Variable Type="float" Name="BackButton.Height" SetsValue="true">
+      <Value xsi:type="xsd:float">35</Value>
+    </Variable>
+    <Variable Type="int" Name="BackButton.Red" SetsValue="true">
+      <Value xsi:type="xsd:int">255</Value>
+    </Variable>
+    <Variable Type="float" Name="BackButton.Width" SetsValue="true">
+      <Value xsi:type="xsd:float">110</Value>
+    </Variable>
+    <Variable Type="float" Name="BackButton.X" SetsValue="true">
+      <Value xsi:type="xsd:float">-138</Value>
+    </Variable>
+    <Variable Type="HorizontalAlignment" Name="BackButton.XOrigin" SetsValue="true">
+      <Value xsi:type="xsd:int">1</Value>
+    </Variable>
+    <Variable Type="PositionUnitType" Name="BackButton.XUnits" SetsValue="true">
+      <Value xsi:type="xsd:int">6</Value>
+    </Variable>
+    <Variable Type="float" Name="BackButton.Y" SetsValue="true">
+      <Value xsi:type="xsd:float">210</Value>
+    </Variable>
+    <Variable Type="VerticalAlignment" Name="BackButton.YOrigin" SetsValue="true">
+      <Value xsi:type="xsd:int">1</Value>
+    </Variable>
+    <Variable Type="PositionUnitType" Name="BackButton.YUnits" SetsValue="true">
+      <Value xsi:type="xsd:int">7</Value>
+    </Variable>
+    <Variable Type="int" Name="BackText.Blue" SetsValue="true">
+      <Value xsi:type="xsd:int">255</Value>
+    </Variable>
+    <Variable IsFont="true" Type="string" Name="BackText.Font" SetsValue="true">
+      <Value xsi:type="xsd:string">Bahnschrift SemiBold</Value>
+    </Variable>
+    <Variable Type="float" Name="BackText.FontScale" SetsValue="true">
+      <Value xsi:type="xsd:float">2</Value>
+    </Variable>
+    <Variable Type="int" Name="BackText.Green" SetsValue="true">
+      <Value xsi:type="xsd:int">255</Value>
+    </Variable>
+    <Variable Type="float" Name="BackText.Height" SetsValue="true">
+      <Value xsi:type="xsd:float">28</Value>
+    </Variable>
+    <Variable Type="HorizontalAlignment" Name="BackText.HorizontalAlignment" SetsValue="true">
+      <Value xsi:type="xsd:int">1</Value>
+    </Variable>
+    <Variable Type="string" Name="BackText.Parent" SetsValue="true">
+      <Value xsi:type="xsd:string">BackButton</Value>
+    </Variable>
+    <Variable Type="int" Name="BackText.Red" SetsValue="true">
+      <Value xsi:type="xsd:int">255</Value>
+    </Variable>
+    <Variable Type="string" Name="BackText.Text" SetsValue="true">
+      <Value xsi:type="xsd:string">Back</Value>
+    </Variable>
+    <Variable Type="bool" Name="BackText.UseFontSmoothing" SetsValue="true">
+      <Value xsi:type="xsd:boolean">false</Value>
+    </Variable>
+    <Variable Type="float" Name="BackText.Width" SetsValue="true">
+      <Value xsi:type="xsd:float">100</Value>
+    </Variable>
+    <Variable Type="float" Name="BackText.X" SetsValue="true">
+      <Value xsi:type="xsd:float">5</Value>
+    </Variable>
+    <Variable Type="float" Name="BackText.Y" SetsValue="true">
+      <Value xsi:type="xsd:float">-6</Value>
+    </Variable>
+    <Variable Type="int" Name="InventoryPage.Alpha" SetsValue="true">
+      <Value xsi:type="xsd:int">255</Value>
+    </Variable>
+    <Variable Type="int" Name="InventoryPage.Blue" SetsValue="true">
+      <Value xsi:type="xsd:int">28</Value>
+    </Variable>
+    <Variable Type="int" Name="InventoryPage.Green" SetsValue="true">
+      <Value xsi:type="xsd:int">18</Value>
+    </Variable>
+    <Variable Type="float" Name="InventoryPage.Height" SetsValue="true">
+      <Value xsi:type="xsd:float">386</Value>
+    </Variable>
+    <Variable Type="int" Name="InventoryPage.Red" SetsValue="true">
+      <Value xsi:type="xsd:int">15</Value>
+    </Variable>
+    <Variable Type="float" Name="InventoryPage.Width" SetsValue="true">
+      <Value xsi:type="xsd:float">357</Value>
+    </Variable>
+    <Variable Type="float" Name="InventoryPage.X" SetsValue="true">
+      <Value xsi:type="xsd:float">-196</Value>
+    </Variable>
+    <Variable Type="PositionUnitType" Name="InventoryPage.XUnits" SetsValue="true">
+      <Value xsi:type="xsd:int">6</Value>
+    </Variable>
+    <Variable Type="float" Name="InventoryPage.Y" SetsValue="true">
+      <Value xsi:type="xsd:float">-201</Value>
+    </Variable>
+    <Variable Type="PositionUnitType" Name="InventoryPage.YUnits" SetsValue="true">
+      <Value xsi:type="xsd:int">7</Value>
+    </Variable>
+    <Variable IsFont="true" Type="string" Name="PirceText.Font" SetsValue="true">
+      <Value xsi:type="xsd:string">Bahnschrift SemiBold</Value>
+    </Variable>
+    <Variable Type="float" Name="PirceText.FontScale" SetsValue="true">
+      <Value xsi:type="xsd:float">2</Value>
+    </Variable>
+    <Variable Type="float" Name="PirceText.Height" SetsValue="true">
+      <Value xsi:type="xsd:float">33</Value>
+    </Variable>
+    <Variable Type="HorizontalAlignment" Name="PirceText.HorizontalAlignment" SetsValue="true">
+      <Value xsi:type="xsd:int">1</Value>
+    </Variable>
+    <Variable Type="string" Name="PirceText.Text" SetsValue="true">
+      <Value xsi:type="xsd:string">Cost : $00000
+
+
+</Value>
+    </Variable>
+    <Variable Type="bool" Name="PirceText.UseFontSmoothing" SetsValue="true">
+      <Value xsi:type="xsd:boolean">false</Value>
+    </Variable>
+    <Variable Type="float" Name="PirceText.Width" SetsValue="true">
+      <Value xsi:type="xsd:float">334</Value>
+    </Variable>
+    <Variable Type="float" Name="PirceText.X" SetsValue="true">
+      <Value xsi:type="xsd:float">-1</Value>
+    </Variable>
+    <Variable Type="HorizontalAlignment" Name="PirceText.XOrigin" SetsValue="true">
+      <Value xsi:type="xsd:int">1</Value>
+    </Variable>
+    <Variable Type="PositionUnitType" Name="PirceText.XUnits" SetsValue="true">
+      <Value xsi:type="xsd:int">6</Value>
+    </Variable>
+    <Variable Type="float" Name="PirceText.Y" SetsValue="true">
+      <Value xsi:type="xsd:float">155</Value>
+    </Variable>
+    <Variable Type="VerticalAlignment" Name="PirceText.YOrigin" SetsValue="true">
+      <Value xsi:type="xsd:int">1</Value>
+    </Variable>
+    <Variable Type="PositionUnitType" Name="PirceText.YUnits" SetsValue="true">
+      <Value xsi:type="xsd:int">7</Value>
+    </Variable>
+    <Variable Type="string" Name="SellingSlot1.Parent" SetsValue="true">
+      <Value xsi:type="xsd:string">InventoryPage</Value>
+    </Variable>
+    <Variable Type="float" Name="SellingSlot1.X" SetsValue="true">
+      <Value xsi:type="xsd:float">12</Value>
+    </Variable>
+    <Variable Type="float" Name="SellingSlot1.Y" SetsValue="true">
+      <Value xsi:type="xsd:float">11</Value>
+    </Variable>
+    <Variable Type="string" Name="SellingSlot10.Parent" SetsValue="true">
+      <Value xsi:type="xsd:string">InventoryPage</Value>
+    </Variable>
+    <Variable Type="float" Name="SellingSlot10.X" SetsValue="true">
+      <Value xsi:type="xsd:float">98</Value>
+    </Variable>
+    <Variable Type="float" Name="SellingSlot10.Y" SetsValue="true">
+      <Value xsi:type="xsd:float">181</Value>
+    </Variable>
+    <Variable Type="string" Name="SellingSlot11.Parent" SetsValue="true">
+      <Value xsi:type="xsd:string">InventoryPage</Value>
+    </Variable>
+    <Variable Type="float" Name="SellingSlot11.X" SetsValue="true">
+      <Value xsi:type="xsd:float">183</Value>
+    </Variable>
+    <Variable Type="float" Name="SellingSlot11.Y" SetsValue="true">
+      <Value xsi:type="xsd:float">181</Value>
+    </Variable>
+    <Variable Type="string" Name="SellingSlot12.Parent" SetsValue="true">
+      <Value xsi:type="xsd:string">InventoryPage</Value>
+    </Variable>
+    <Variable Type="float" Name="SellingSlot12.X" SetsValue="true">
+      <Value xsi:type="xsd:float">268</Value>
+    </Variable>
+    <Variable Type="float" Name="SellingSlot12.Y" SetsValue="true">
+      <Value xsi:type="xsd:float">181</Value>
+    </Variable>
+    <Variable Type="string" Name="SellingSlot13.Parent" SetsValue="true">
+      <Value xsi:type="xsd:string">InventoryPage</Value>
+    </Variable>
+    <Variable Type="float" Name="SellingSlot13.X" SetsValue="true">
+      <Value xsi:type="xsd:float">12</Value>
+    </Variable>
+    <Variable Type="float" Name="SellingSlot13.Y" SetsValue="true">
+      <Value xsi:type="xsd:float">266</Value>
+    </Variable>
+    <Variable Type="string" Name="SellingSlot14.Parent" SetsValue="true">
+      <Value xsi:type="xsd:string">InventoryPage</Value>
+    </Variable>
+    <Variable Type="float" Name="SellingSlot14.X" SetsValue="true">
+      <Value xsi:type="xsd:float">98</Value>
+    </Variable>
+    <Variable Type="float" Name="SellingSlot14.Y" SetsValue="true">
+      <Value xsi:type="xsd:float">266</Value>
+    </Variable>
+    <Variable Type="string" Name="SellingSlot15.Parent" SetsValue="true">
+      <Value xsi:type="xsd:string">InventoryPage</Value>
+    </Variable>
+    <Variable Type="float" Name="SellingSlot15.X" SetsValue="true">
+      <Value xsi:type="xsd:float">183</Value>
+    </Variable>
+    <Variable Type="float" Name="SellingSlot15.Y" SetsValue="true">
+      <Value xsi:type="xsd:float">266</Value>
+    </Variable>
+    <Variable Type="string" Name="SellingSlot16.Parent" SetsValue="true">
+      <Value xsi:type="xsd:string">InventoryPage</Value>
+    </Variable>
+    <Variable Type="float" Name="SellingSlot16.X" SetsValue="true">
+      <Value xsi:type="xsd:float">268</Value>
+    </Variable>
+    <Variable Type="float" Name="SellingSlot16.Y" SetsValue="true">
+      <Value xsi:type="xsd:float">266</Value>
+    </Variable>
+    <Variable Type="string" Name="SellingSlot2.Parent" SetsValue="true">
+      <Value xsi:type="xsd:string">InventoryPage</Value>
+    </Variable>
+    <Variable Type="float" Name="SellingSlot2.X" SetsValue="true">
+      <Value xsi:type="xsd:float">98</Value>
+    </Variable>
+    <Variable Type="float" Name="SellingSlot2.Y" SetsValue="true">
+      <Value xsi:type="xsd:float">11</Value>
+    </Variable>
+    <Variable Type="string" Name="SellingSlot3.Parent" SetsValue="true">
+      <Value xsi:type="xsd:string">InventoryPage</Value>
+    </Variable>
+    <Variable Type="float" Name="SellingSlot3.X" SetsValue="true">
+      <Value xsi:type="xsd:float">183</Value>
+    </Variable>
+    <Variable Type="float" Name="SellingSlot3.Y" SetsValue="true">
+      <Value xsi:type="xsd:float">11</Value>
+    </Variable>
+    <Variable Type="int" Name="SellingSlot4.Blue" SetsValue="true">
+      <Value xsi:type="xsd:int">136</Value>
+    </Variable>
+    <Variable Type="int" Name="SellingSlot4.Green" SetsValue="true">
+      <Value xsi:type="xsd:int">136</Value>
+    </Variable>
+    <Variable Type="string" Name="SellingSlot4.Parent" SetsValue="true">
+      <Value xsi:type="xsd:string">InventoryPage</Value>
+    </Variable>
+    <Variable Type="int" Name="SellingSlot4.Red" SetsValue="true">
+      <Value xsi:type="xsd:int">136</Value>
+    </Variable>
+    <Variable Type="float" Name="SellingSlot4.X" SetsValue="true">
+      <Value xsi:type="xsd:float">268</Value>
+    </Variable>
+    <Variable Type="float" Name="SellingSlot4.Y" SetsValue="true">
+      <Value xsi:type="xsd:float">11</Value>
+    </Variable>
+    <Variable Type="string" Name="SellingSlot5.Parent" SetsValue="true">
+      <Value xsi:type="xsd:string">InventoryPage</Value>
+    </Variable>
+    <Variable Type="float" Name="SellingSlot5.X" SetsValue="true">
+      <Value xsi:type="xsd:float">12</Value>
+    </Variable>
+    <Variable Type="float" Name="SellingSlot5.Y" SetsValue="true">
+      <Value xsi:type="xsd:float">96</Value>
+    </Variable>
+    <Variable Type="string" Name="SellingSlot6.Parent" SetsValue="true">
+      <Value xsi:type="xsd:string">InventoryPage</Value>
+    </Variable>
+    <Variable Type="float" Name="SellingSlot6.X" SetsValue="true">
+      <Value xsi:type="xsd:float">98</Value>
+    </Variable>
+    <Variable Type="float" Name="SellingSlot6.Y" SetsValue="true">
+      <Value xsi:type="xsd:float">96</Value>
+    </Variable>
+    <Variable Type="string" Name="SellingSlot7.Parent" SetsValue="true">
+      <Value xsi:type="xsd:string">InventoryPage</Value>
+    </Variable>
+    <Variable Type="float" Name="SellingSlot7.X" SetsValue="true">
+      <Value xsi:type="xsd:float">183</Value>
+    </Variable>
+    <Variable Type="float" Name="SellingSlot7.Y" SetsValue="true">
+      <Value xsi:type="xsd:float">96</Value>
+    </Variable>
+    <Variable Type="string" Name="SellingSlot8.Parent" SetsValue="true">
+      <Value xsi:type="xsd:string">InventoryPage</Value>
+    </Variable>
+    <Variable Type="float" Name="SellingSlot8.X" SetsValue="true">
+      <Value xsi:type="xsd:float">268</Value>
+    </Variable>
+    <Variable Type="float" Name="SellingSlot8.Y" SetsValue="true">
+      <Value xsi:type="xsd:float">96</Value>
+    </Variable>
+    <Variable Type="string" Name="SellingSlot9.Parent" SetsValue="true">
+      <Value xsi:type="xsd:string">InventoryPage</Value>
+    </Variable>
+    <Variable Type="float" Name="SellingSlot9.X" SetsValue="true">
+      <Value xsi:type="xsd:float">12</Value>
+    </Variable>
+    <Variable Type="float" Name="SellingSlot9.Y" SetsValue="true">
+      <Value xsi:type="xsd:float">181</Value>
+    </Variable>
+  </State>
+  <Instance Name="InventoryPage" BaseType="Background" />
+  <Instance Name="SellingSlot16" BaseType="ItemSlot" />
+  <Instance Name="SellingSlot15" BaseType="ItemSlot" />
+  <Instance Name="SellingSlot14" BaseType="ItemSlot" />
+  <Instance Name="SellingSlot13" BaseType="ItemSlot" />
+  <Instance Name="SellingSlot12" BaseType="ItemSlot" />
+  <Instance Name="SellingSlot11" BaseType="ItemSlot" />
+  <Instance Name="SellingSlot10" BaseType="ItemSlot" />
+  <Instance Name="SellingSlot9" BaseType="ItemSlot" />
+  <Instance Name="SellingSlot8" BaseType="ItemSlot" />
+  <Instance Name="SellingSlot7" BaseType="ItemSlot" />
+  <Instance Name="SellingSlot6" BaseType="ItemSlot" />
+  <Instance Name="SellingSlot5" BaseType="ItemSlot" />
+  <Instance Name="SellingSlot4" BaseType="ItemSlot" />
+  <Instance Name="SellingSlot3" BaseType="ItemSlot" />
+  <Instance Name="SellingSlot2" BaseType="ItemSlot" />
+  <Instance Name="SellingSlot1" BaseType="ItemSlot" />
+  <Instance Name="PirceText" BaseType="Text" />
+  <Instance Name="BackButton" BaseType="Button" />
+  <Instance Name="BackText" BaseType="Text" />
+  <Behaviors />
+</ScreenSave>

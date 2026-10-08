@@ -1,0 +1,48 @@
+// ============================================================================
+// NPC GUIDE (using the Shopkeeper as the example)
+// ============================================================================
+//
+// 1. PLACING AN NPC IN TILED
+//    Add an object to the map's interaction object layer with these properties:
+//      script        = npc                  -> routes the click to the NPC dialogue system
+//      npc           = example_shopkeeper   -> matches the Id of the class below
+//    Sprite properties (all optional):
+//      npc_art       = Graphics/NPCart/ShopKeep   -> folder (under Content) holding Idle.png / Run.png
+//      direction     = down | left | right | up   -> which row of the sheet is shown
+//      state         = idle | walk                -> idle uses Idle.png, walk uses Run.png
+//      sprite_anchor = bottom_center              -> where the sprite sits relative to the object box
+//      frame_columns = 5                          -> frames per row, only if there is no json
+//
+// 2. SPRITE SHEETS (same layout as PlayerArt/Idle.png)
+//    Rows from top to bottom are: Left, Right, Down, Up. Each row holds the frames of that direction.
+//    Current art is 150x172: 5 frames per row, each frame 30x43.
+//    Folder contents:
+//      Idle.png   standing animation (required)
+//      Run.png    walking animation (optional, falls back to Idle when missing)
+//      Idle.json  optional timing/layout file, exported from Aseprite (same format as the player's)
+//      Run.json   same, for walking
+//    Without a json the sheet is cut into an even grid at 250ms per frame.
+//    With a json, frame names must contain (Left), (Right), (Down) or (Up), and each frame's
+//    "duration" (milliseconds) controls its speed. Lower = faster. Edit Idle.json to tune idle speed.
+//
+// 3. CHANGING DIRECTION OR STATE FROM CODE
+//    The properties are read every frame, so a script can change them at runtime:
+//      interaction.SetProperty("direction", "left");
+//      interaction.SetProperty("state", "walk");
+//    Nothing moves the NPC by itself yet. These only choose the animation that plays.
+//    To face the player when talking, set "direction" inside GetStartNode (it receives the interaction).
+//
+// 4. DIALOGUE
+//    Dialogue is a set of nodes (AddNode). Each node has Lines (shown one at a time) and optional Choices.
+//    A choice can jump to another node (NextNodeId) or run an Action:
+//      shop:<inventory id>   open a shop        menu:<menu id>   open a menu (e.g. selling_box)
+//      dialogue:<node id>    jump to a node
+//    Back in a shop or sell menu returns to the node the choice came from (ResumeNodeId can override it).
+//    GetStartNode picks the opening node. Here it plays "first_meet" once, then "start" afterwards,
+//    using PlayerState.MetNpcs.
+//
+// 5. MAKING A NEW NPC
+//    Copy this class, change Id and DisplayName, edit the nodes, then use the new Id in the Tiled
+//    "npc" property. Classes are discovered automatically, no registration needed.
+// ============================================================================
+// Example NPC. Place a map interaction object with script "npc" and property npc = "example_shopkeeper".
