@@ -1,0 +1,349 @@
+{
+  "UserEvents": {
+    "cbdc59e5402bd583a96a99de1ecc9c46f96199fda7da0ba76b11269f0fadae29": [
+      {
+        "NewName": "SellingBox1",
+        "OldName": null,
+        "ElementType": "Screens",
+        "EventType": 0,
+        "TimestampUtc": "2026-09-28T23:41:52.4144115Z"
+      },
+      {
+        "NewName": "StoreMenu",
+        "OldName": "SellingBox1",
+        "ElementType": "Screens",
+        "EventType": 2,
+        "TimestampUtc": "2026-09-28T23:42:37.7229453Z"
+      },
+      {
+        "NewName": null,
+        "OldName": "StoreMenu.Background InventoryPage in StoreMenu",
+        "ElementType": "Screens",
+        "EventType": 6,
+        "TimestampUtc": "2026-09-28T23:42:49.8023051Z"
+      },
+      {
+        "NewName": "StoreMenu.InventoryPage",
+        "OldName": null,
+        "ElementType": "Screens",
+        "EventType": 5,
+        "TimestampUtc": "2026-09-28T23:42:52.7179085Z"
+      },
+      {
+        "NewName": null,
+        "OldName": "StoreMenu.ItemSlot ItemSlotInstance in StoreMenu",
+        "ElementType": "Screens",
+        "EventType": 6,
+        "TimestampUtc": "2026-09-28T23:43:00.5471044Z"
+      },
+      {
+        "NewName": null,
+        "OldName": "StoreMenu.ItemSlot ItemSlotInstance1 in StoreMenu",
+        "ElementType": "Screens",
+        "EventType": 6,
+        "TimestampUtc": "2026-09-28T23:43:00.5476054Z"
+      },
+      {
+        "NewName": null,
+        "OldName": "StoreMenu.ItemSlot ItemSlotInstance2 in StoreMenu",
+        "ElementType": "Screens",
+        "EventType": 6,
+        "TimestampUtc": "2026-09-28T23:43:00.5541261Z"
+      },
+      {
+        "NewName": null,
+        "OldName": "StoreMenu.ItemSlot ItemSlotInstance3 in StoreMenu",
+        "ElementType": "Screens",
+        "EventType": 6,
+        "TimestampUtc": "2026-09-28T23:43:00.5598329Z"
+      },
+      {
+        "NewName": null,
+        "OldName": "StoreMenu.ItemSlot ItemSlotInstance4 in StoreMenu",
+        "ElementType": "Screens",
+        "EventType": 6,
+        "TimestampUtc": "2026-09-28T23:43:00.5649668Z"
+      },
+      {
+        "NewName": null,
+        "OldName": "StoreMenu.ItemSlot ItemSlotInstance5 in StoreMenu",
+        "ElementType": "Screens",
+        "EventType": 6,
+        "TimestampUtc": "2026-09-28T23:43:00.5708482Z"
+      },
+      {
+        "NewName": null,
+        "OldName": "StoreMenu.ItemSlot ItemSlotInstance6 in StoreMenu",
+        "ElementType": "Screens",
+        "EventType": 6,
+        "TimestampUtc": "2026-09-28T23:43:00.5761221Z"
+      },
+      {
+        "NewName": null,
+        "OldName": "StoreMenu.ItemSlot ItemSlotInstance7 in StoreMenu",
+        "ElementType": "Screens",
+        "EventType": 6,
+        "TimestampUtc": "2026-09-28T23:43:00.5818053Z"
+      },
+      {
+        "NewName": null,
+        "OldName": "StoreMenu.ItemSlot ItemSlotInstance8 in StoreMenu",
+        "ElementType": "Screens",
+        "EventType": 6,
+        "TimestampUtc": "2026-09-28T23:43:00.5871347Z"
+      },
+      {
+        "NewName": null,
+        "OldName": "StoreMenu.ItemSlot ItemSlotInstance9 in StoreMenu",
+        "ElementType": "Screens",
+        "EventType": 6,
+        "TimestampUtc": "2026-09-28T23:43:00.5925892Z"
+      },
+      {
+        "NewName": null,
+        "OldName": "StoreMenu.ItemSlot ItemSlotInstance10 in StoreMenu",
+        "ElementType": "Screens",
+        "EventType": 6,
+        "TimestampUtc": "2026-09-28T23:43:00.5984593Z"
+      },
+      {
+        "NewName": null,
+        "OldName": "StoreMenu.ItemSlot ItemSlotInstance11 in StoreMenu",
+        "ElementType": "Screens",
+        "EventType": 6,
+        "TimestampUtc": "2026-09-28T23:43:00.6031942Z"
+      },
+      {
+        "NewName": null,
+        "OldName": "StoreMenu.ItemSlot ItemSlotInstance12 in StoreMenu",
+        "ElementType": "Screens",
+        "EventType": 6,
+        "TimestampUtc": "2026-09-28T23:43:00.6086609Z"
+      },
+      {
+        "NewName": null,
+        "OldName": "StoreMenu.ItemSlot ItemSlotInstance13 in StoreMenu",
+        "ElementType": "Screens",
+        "EventType": 6,
+        "TimestampUtc": "2026-09-28T23:43:00.6135547Z"
+      },
+      {
+        "NewName": null,
+        "OldName": "StoreMenu.ItemSlot ItemSlotInstance14 in StoreMenu",
+        "ElementType": "Screens",
+        "EventType": 6,
+        "TimestampUtc": "2026-09-28T23:43:00.6192588Z"
+      },
+      {
+        "NewName": null,
+        "OldName": "StoreMenu.ItemSlot ItemSlotInstance15 in StoreMenu",
+        "ElementType": "Screens",
+        "EventType": 6,
+        "TimestampUtc": "2026-09-28T23:43:00.6241958Z"
+      },
+      {
+        "NewName": null,
+        "OldName": "StoreMenu.ItemSlot ItemSlotInstance16 in StoreMenu",
+        "ElementType": "Screens",
+        "EventType": 6,
+        "TimestampUtc": "2026-09-28T23:43:00.6292137Z"
+      },
+      {
+        "NewName": null,
+        "OldName": "StoreMenu.ItemSlot ItemSlotInstance17 in StoreMenu",
+        "ElementType": "Screens",
+        "EventType": 6,
+        "TimestampUtc": "2026-09-28T23:43:00.6372416Z"
+      },
+      {
+        "NewName": null,
+        "OldName": "StoreMenu.ItemSlot ItemSlotInstance18 in StoreMenu",
+        "ElementType": "Screens",
+        "EventType": 6,
+        "TimestampUtc": "2026-09-28T23:43:00.6427432Z"
+      },
+      {
+        "NewName": null,
+        "OldName": "StoreMenu.ItemSlot ItemSlotInstance19 in StoreMenu",
+        "ElementType": "Screens",
+        "EventType": 6,
+        "TimestampUtc": "2026-09-28T23:43:00.6489046Z"
+      },
+      {
+        "NewName": null,
+        "OldName": "StoreMenu.ItemSlot ItemSlotInstance20 in StoreMenu",
+        "ElementType": "Screens",
+        "EventType": 6,
+        "TimestampUtc": "2026-09-28T23:43:00.6540045Z"
+      },
+      {
+        "NewName": null,
+        "OldName": "StoreMenu.ItemSlot ItemSlotInstance21 in StoreMenu",
+        "ElementType": "Screens",
+        "EventType": 6,
+        "TimestampUtc": "2026-09-28T23:43:00.6598237Z"
+      },
+      {
+        "NewName": null,
+        "OldName": "StoreMenu.ItemSlot ItemSlotInstance22 in StoreMenu",
+        "ElementType": "Screens",
+        "EventType": 6,
+        "TimestampUtc": "2026-09-28T23:43:00.6649598Z"
+      },
+      {
+        "NewName": null,
+        "OldName": "StoreMenu.ItemSlot ItemSlotInstance23 in StoreMenu",
+        "ElementType": "Screens",
+        "EventType": 6,
+        "TimestampUtc": "2026-09-28T23:43:00.6707186Z"
+      },
+      {
+        "NewName": null,
+        "OldName": "StoreMenu.ItemSlot ItemSlotInstance24 in StoreMenu",
+        "ElementType": "Screens",
+        "EventType": 6,
+        "TimestampUtc": "2026-09-28T23:43:00.6758741Z"
+      },
+      {
+        "NewName": null,
+        "OldName": "StoreMenu.ItemSlot ItemSlotInstance25 in StoreMenu",
+        "ElementType": "Screens",
+        "EventType": 6,
+        "TimestampUtc": "2026-09-28T23:43:00.6822151Z"
+      },
+      {
+        "NewName": null,
+        "OldName": "StoreMenu.ItemSlot ItemSlotInstance26 in StoreMenu",
+        "ElementType": "Screens",
+        "EventType": 6,
+        "TimestampUtc": "2026-09-28T23:43:00.6872706Z"
+      },
+      {
+        "NewName": null,
+        "OldName": "StoreMenu.ItemSlot ItemSlotInstance27 in StoreMenu",
+        "ElementType": "Screens",
+        "EventType": 6,
+        "TimestampUtc": "2026-09-28T23:43:00.6929903Z"
+      },
+      {
+        "NewName": null,
+        "OldName": "StoreMenu.ItemSlot ItemSlotInstance28 in StoreMenu",
+        "ElementType": "Screens",
+        "EventType": 6,
+        "TimestampUtc": "2026-09-28T23:43:00.6980666Z"
+      },
+      {
+        "NewName": null,
+        "OldName": "StoreMenu.ItemSlot ItemSlotInstance29 in StoreMenu",
+        "ElementType": "Screens",
+        "EventType": 6,
+        "TimestampUtc": "2026-09-28T23:43:00.7037503Z"
+      },
+      {
+        "NewName": null,
+        "OldName": "StoreMenu.ItemSlot ItemSlotInstance30 in StoreMenu",
+        "ElementType": "Screens",
+        "EventType": 6,
+        "TimestampUtc": "2026-09-28T23:43:00.7090717Z"
+      },
+      {
+        "NewName": null,
+        "OldName": "StoreMenu.ItemSlot ItemSlotInstance31 in StoreMenu",
+        "ElementType": "Screens",
+        "EventType": 6,
+        "TimestampUtc": "2026-09-28T23:43:00.7141642Z"
+      },
+      {
+        "NewName": null,
+        "OldName": "StoreMenu.ItemSlot ItemSlotInstance32 in StoreMenu",
+        "ElementType": "Screens",
+        "EventType": 6,
+        "TimestampUtc": "2026-09-28T23:43:00.7200287Z"
+      },
+      {
+        "NewName": null,
+        "OldName": "StoreMenu.ItemSlot ItemSlotInstance33 in StoreMenu",
+        "ElementType": "Screens",
+        "EventType": 6,
+        "TimestampUtc": "2026-09-28T23:43:00.7251231Z"
+      },
+      {
+        "NewName": null,
+        "OldName": "StoreMenu.ItemSlot ItemSlotInstance34 in StoreMenu",
+        "ElementType": "Screens",
+        "EventType": 6,
+        "TimestampUtc": "2026-09-28T23:43:00.7309101Z"
+      },
+      {
+        "NewName": null,
+        "OldName": "StoreMenu.ItemSlot ItemSlotInstance35 in StoreMenu",
+        "ElementType": "Screens",
+        "EventType": 6,
+        "TimestampUtc": "2026-09-28T23:43:00.7359354Z"
+      },
+      {
+        "NewName": null,
+        "OldName": "StoreMenu.ItemSlot ItemSlotInstance36 in StoreMenu",
+        "ElementType": "Screens",
+        "EventType": 6,
+        "TimestampUtc": "2026-09-28T23:43:00.741441Z"
+      },
+      {
+        "NewName": null,
+        "OldName": "StoreMenu.ItemSlot ItemSlotInstance37 in StoreMenu",
+        "ElementType": "Screens",
+        "EventType": 6,
+        "TimestampUtc": "2026-09-28T23:43:00.7463378Z"
+      },
+      {
+        "NewName": null,
+        "OldName": "StoreMenu.ItemSlot ItemSlotInstance38 in StoreMenu",
+        "ElementType": "Screens",
+        "EventType": 6,
+        "TimestampUtc": "2026-09-28T23:43:00.7519661Z"
+      },
+      {
+        "NewName": null,
+        "OldName": "StoreMenu.ItemSlot ItemSlotInstance39 in StoreMenu",
+        "ElementType": "Screens",
+        "EventType": 6,
+        "TimestampUtc": "2026-09-28T23:43:00.7568929Z"
+      },
+      {
+        "NewName": null,
+        "OldName": "StoreMenu.ColoredRectangle ColoredRectangleInstance in StoreMenu",
+        "ElementType": "Screens",
+        "EventType": 6,
+        "TimestampUtc": "2026-09-28T23:43:16.1161089Z"
+      },
+      {
+        "NewName": null,
+        "OldName": "StoreMenu.Text SellingText in StoreMenu",
+        "ElementType": "Screens",
+        "EventType": 6,
+        "TimestampUtc": "2026-09-28T23:43:19.663134Z"
+      },
+      {
+        "NewName": null,
+        "OldName": "StoreMenu.Button SellButton in StoreMenu",
+        "ElementType": "Screens",
+        "EventType": 6,
+        "TimestampUtc": "2026-09-28T23:43:22.9588659Z"
+      },
+      {
+        "NewName": "StoreMenu.PirceText",
+        "OldName": "StoreMenu.SellForText",
+        "ElementType": "Screens",
+        "EventType": 7,
+        "TimestampUtc": "2026-09-28T23:43:45.6347488Z"
+      },
+      {
+        "NewName": null,
+        "OldName": "WorldMenu.Text StatusText in WorldMenu",
+        "ElementType": "Screens",
+        "EventType": 6,
+        "TimestampUtc": "2026-10-12T00:51:38.8498923Z"
+      }
+    ]
+  }
+}

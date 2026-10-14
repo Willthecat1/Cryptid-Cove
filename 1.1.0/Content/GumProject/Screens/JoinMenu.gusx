@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScreenSave xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Name>JoinMenu</Name>
+  <State>
+    <Name>Default</Name>
+    <Variable Type="int" Name="AddressField.Blue" SetsValue="true">
+      <Value xsi:type="xsd:int">52</Value>
+    </Variable>
+    <Variable Type="int" Name="AddressField.Green" SetsValue="true">
+      <Value xsi:type="xsd:int">36</Value>
+    </Variable>
+    <Variable Type="float" Name="AddressField.Height" SetsValue="true">
+      <Value xsi:type="xsd:float">44</Value>
+    </Variable>
+    <Variable Type="string" Name="AddressField.Parent" SetsValue="true">
+      <Value xsi:type="xsd:string">Panel</Value>
+    </Variable>
+    <Variable Type="int" Name="AddressField.Red" SetsValue="true">
+      <Value xsi:type="xsd:int">30</Value>
+    </Variable>
+    <Variable Type="float" Name="AddressField.Width" SetsValue="true">
+      <Value xsi:type="xsd:float">592</Value>
+    </Variable>
+    <Variable Type="float" Name="AddressField.X" SetsValue="true">
+      <Value xsi:type="xsd:float">24</Value>
+    </Variable>
+    <Variable Type="float" Name="AddressField.Y" SetsValue="true">
+      <Value xsi:type="xsd:float">81</Value>
+    </Variable>
+    <Variable Type="float" Name="AddressText.Height" SetsValue="true">
+      <Value xsi:type="xsd:float">29</Value>
+    </Variable>
+    <Variable Type="string" Name="AddressText.Parent" SetsValue="true">
+      <Value xsi:type="xsd:string">AddressField</Value>
+    </Variable>
+    <Variable Type="string" Name="AddressText.Text" SetsValue="true">
+      <Value xsi:type="xsd:string">_</Value>
+    </Variable>
+    <Variable Type="float" Name="AddressText.Width" SetsValue="true">
+      <Value xsi:type="xsd:float">593</Value>
+    </Variable>
+    <Variable Type="float" Name="AddressText.X" SetsValue="true">
+      <Value xsi:type="xsd:float">10</Value>
+    </Variable>
+    <Variable Type="float" Name="AddressText.Y" SetsValue="true">
+      <Value xsi:type="xsd:float">10</Value>
+    </Variable>
+    <Variable Type="int" Name="CancelButton.Blue" SetsValue="true">
+      <Value xsi:type="xsd:int">0</Value>
+    </Variable>
+    <Variable Type="int" Name="CancelButton.Green" SetsValue="true">
+      <Value xsi:type="xsd:int">197</Value>
+    </Variable>
+    <Variable Type="string" Name="CancelButton.Parent" SetsValue="true">
+      <Value xsi:type="xsd:string">Panel</Value>
+    </Variable>
+    <Variable Type="int" Name="CancelButton.Red" SetsValue="true">
+      <Value xsi:type="xsd:int">255</Value>
+    </Variable>
+    <Variable Type="float" Name="CancelButton.Width" SetsValue="true">
+      <Value xsi:type="xsd:float">260</Value>
+    </Variable>
+    <Variable Type="float" Name="CancelButton.X" SetsValue="true">
+      <Value xsi:type="xsd:float">350</Value>
+    </Variable>
+    <Variable Type="float" Name="CancelButton.Y" SetsValue="true">
+      <Value xsi:type="xsd:float">142</Value>
+    </Variable>
+    <Variable Type="string" Name="CancelText.Parent" SetsValue="true">
+      <Value xsi:type="xsd:string">CancelButton</Value>
+    </Variable>
+    <Variable Type="string" Name="CancelText.Text" SetsValue="true">
+      <Value xsi:type="xsd:string">Cancel</Value>
+    </Variable>
+    <Variable Type="float" Name="CancelText.X" SetsValue="true">
+      <Value xsi:type="xsd:float">90</Value>
+    </Variable>
+    <Variable Type="float" Name="CancelText.Y" SetsValue="true">
+      <Value xsi:type="xsd:float">12</Value>
+    </Variable>
+    <Variable Type="int" Name="ConnectButton.Blue" SetsValue="true">
+      <Value xsi:type="xsd:int">0</Value>
+    </Variable>
+    <Variable Type="int" Name="ConnectButton.Green" SetsValue="true">
+      <Value xsi:type="xsd:int">197</Value>
+    </Variable>
+    <Variable Type="string" Name="ConnectButton.Parent" SetsValue="true">
+      <Value xsi:type="xsd:string">Panel</Value>
+    </Variable>
+    <Variable Type="int" Name="ConnectButton.Red" SetsValue="true">
+      <Value xsi:type="xsd:int">255</Value>
+    </Variable>
+    <Variable Type="float" Name="ConnectButton.Width" SetsValue="true">
+      <Value xsi:type="xsd:float">260</Value>
+    </Variable>
+    <Variable Type="float" Name="ConnectButton.X" SetsValue="true">
+      <Value xsi:type="xsd:float">26</Value>
+    </Variable>
+    <Variable Type="float" Name="ConnectButton.Y" SetsValue="true">
+      <Value xsi:type="xsd:float">141</Value>
+    </Variable>
+    <Variable Type="string" Name="ConnectText.Parent" SetsValue="true">
+      <Value xsi:type="xsd:string">ConnectButton</Value>
+    </Variable>
+    <Variable Type="string" Name="ConnectText.Text" SetsValue="true">
+      <Value xsi:type="xsd:string">Connect</Value>
+    </Variable>
+    <Variable Type="float" Name="ConnectText.X" SetsValue="true">
+      <Value xsi:type="xsd:float">80</Value>
+    </Variable>
+    <Variable Type="float" Name="ConnectText.Y" SetsValue="true">
+      <Value xsi:type="xsd:float">12</Value>
+    </Variable>
+    <Variable Type="int" Name="Panel.Blue" SetsValue="true">
+      <Value xsi:type="xsd:int">0</Value>
+    </Variable>
+    <Variable Type="int" Name="Panel.Green" SetsValue="true">
+      <Value xsi:type="xsd:int">0</Value>
+    </Variable>
+    <Variable Type="float" Name="Panel.Height" SetsValue="true">
+      <Value xsi:type="xsd:float">223</Value>
+    </Variable>
+    <Variable Type="int" Name="Panel.Red" SetsValue="true">
+      <Value xsi:type="xsd:int">0</Value>
+    </Variable>
+    <Variable Type="float" Name="Panel.Width" SetsValue="true">
+      <Value xsi:type="xsd:float">633</Value>
+    </Variable>
+    <Variable Type="float" Name="Panel.X" SetsValue="true">
+      <Value xsi:type="xsd:float">-3.5</Value>
+    </Variable>
+    <Variable Type="HorizontalAlignment" Name="Panel.XOrigin" SetsValue="true">
+      <Value xsi:type="xsd:int">1</Value>
+    </Variable>
+    <Variable Type="PositionUnitType" Name="Panel.XUnits" SetsValue="true">
+      <Value xsi:type="xsd:int">6</Value>
+    </Variable>
+    <Variable Type="float" Name="Panel.Y" SetsValue="true">
+      <Value xsi:type="xsd:float">-18.5</Value>
+    </Variable>
+    <Variable Type="VerticalAlignment" Name="Panel.YOrigin" SetsValue="true">
+      <Value xsi:type="xsd:int">1</Value>
+    </Variable>
+    <Variable Type="PositionUnitType" Name="Panel.YUnits" SetsValue="true">
+      <Value xsi:type="xsd:int">7</Value>
+    </Variable>
+    <Variable Type="string" Name="PromptText.Parent" SetsValue="true">
+      <Value xsi:type="xsd:string">Panel</Value>
+    </Variable>
+    <Variable Type="string" Name="PromptText.Text" SetsValue="true">
+      <Value xsi:type="xsd:string">Host IP (optional :port)</Value>
+    </Variable>
+    <Variable Type="float" Name="PromptText.Width" SetsValue="true">
+      <Value xsi:type="xsd:float">293</Value>
+    </Variable>
+    <Variable Type="float" Name="PromptText.X" SetsValue="true">
+      <Value xsi:type="xsd:float">29</Value>
+    </Variable>
+    <Variable Type="float" Name="PromptText.Y" SetsValue="true">
+      <Value xsi:type="xsd:float">44</Value>
+    </Variable>
+    <Variable Type="string" Name="StatusText.Parent" SetsValue="true">
+      <Value xsi:type="xsd:string">Panel</Value>
+    </Variable>
+    <Variable Type="string" Name="StatusText.Text" SetsValue="true">
+      <Value xsi:type="xsd:string"></Value>
+    </Variable>
+    <Variable Type="float" Name="StatusText.X" SetsValue="true">
+      <Value xsi:type="xsd:float">24</Value>
+    </Variable>
+    <Variable Type="float" Name="StatusText.Y" SetsValue="true">
+      <Value xsi:type="xsd:float">148</Value>
+    </Variable>
+    <Variable Type="float" Name="TitleText.Height" SetsValue="true">
+      <Value xsi:type="xsd:float">22</Value>
+    </Variable>
+    <Variable Type="string" Name="TitleText.Parent" SetsValue="true">
+      <Value xsi:type="xsd:string">Panel</Value>
+    </Variable>
+    <Variable Type="string" Name="TitleText.Text" SetsValue="true">
+      <Value xsi:type="xsd:string">Join Game</Value>
+    </Variable>
+    <Variable Type="float" Name="TitleText.Width" SetsValue="true">
+      <Value xsi:type="xsd:float">96</Value>
+    </Variable>
+    <Variable Type="float" Name="TitleText.X" SetsValue="true">
+      <Value xsi:type="xsd:float">24</Value>
+    </Variable>
+    <Variable Type="float" Name="TitleText.Y" SetsValue="true">
+      <Value xsi:type="xsd:float">16</Value>
+    </Variable>
+  </State>
+  <Instance Name="Panel" BaseType="Background" />
+  <Instance Name="TitleText" BaseType="Text" />
+  <Instance Name="PromptText" BaseType="Text" />
+  <Instance Name="AddressField" BaseType="Background" />
+  <Instance Name="AddressText" BaseType="Text" />
+  <Instance Name="StatusText" BaseType="Text" />
+  <Instance Name="ConnectButton" BaseType="Button" />
+  <Instance Name="ConnectText" BaseType="Text" />
+  <Instance Name="CancelButton" BaseType="Button" />
+  <Instance Name="CancelText" BaseType="Text" />
+  <Behaviors />
+</ScreenSave>

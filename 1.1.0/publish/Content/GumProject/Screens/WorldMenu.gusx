@@ -1,0 +1,637 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScreenSave xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Name>WorldMenu</Name>
+  <State>
+    <Name>Default</Name>
+    <Variable Type="int" Name="CloseButton.Blue" SetsValue="true">
+      <Value xsi:type="xsd:int">0</Value>
+    </Variable>
+    <Variable Type="int" Name="CloseButton.Green" SetsValue="true">
+      <Value xsi:type="xsd:int">197</Value>
+    </Variable>
+    <Variable Type="string" Name="CloseButton.Parent" SetsValue="true">
+      <Value xsi:type="xsd:string">Panel</Value>
+    </Variable>
+    <Variable Type="int" Name="CloseButton.Red" SetsValue="true">
+      <Value xsi:type="xsd:int">255</Value>
+    </Variable>
+    <Variable Type="float" Name="CloseButton.Width" SetsValue="true">
+      <Value xsi:type="xsd:float">260</Value>
+    </Variable>
+    <Variable Type="float" Name="CloseButton.X" SetsValue="true">
+      <Value xsi:type="xsd:float">356</Value>
+    </Variable>
+    <Variable Type="float" Name="CloseButton.Y" SetsValue="true">
+      <Value xsi:type="xsd:float">450</Value>
+    </Variable>
+    <Variable Type="string" Name="CloseText.Parent" SetsValue="true">
+      <Value xsi:type="xsd:string">CloseButton</Value>
+    </Variable>
+    <Variable Type="string" Name="CloseText.Text" SetsValue="true">
+      <Value xsi:type="xsd:string">Close</Value>
+    </Variable>
+    <Variable Type="float" Name="CloseText.X" SetsValue="true">
+      <Value xsi:type="xsd:float">100</Value>
+    </Variable>
+    <Variable Type="float" Name="CloseText.Y" SetsValue="true">
+      <Value xsi:type="xsd:float">12</Value>
+    </Variable>
+    <Variable Type="int" Name="Delete1.Blue" SetsValue="true">
+      <Value xsi:type="xsd:int">0</Value>
+    </Variable>
+    <Variable Type="int" Name="Delete1.Green" SetsValue="true">
+      <Value xsi:type="xsd:int">197</Value>
+    </Variable>
+    <Variable Type="string" Name="Delete1.Parent" SetsValue="true">
+      <Value xsi:type="xsd:string">Panel</Value>
+    </Variable>
+    <Variable Type="int" Name="Delete1.Red" SetsValue="true">
+      <Value xsi:type="xsd:int">255</Value>
+    </Variable>
+    <Variable Type="float" Name="Delete1.Width" SetsValue="true">
+      <Value xsi:type="xsd:float">136</Value>
+    </Variable>
+    <Variable Type="float" Name="Delete1.X" SetsValue="true">
+      <Value xsi:type="xsd:float">480</Value>
+    </Variable>
+    <Variable Type="float" Name="Delete1.Y" SetsValue="true">
+      <Value xsi:type="xsd:float">80</Value>
+    </Variable>
+    <Variable Type="int" Name="Delete1Text.Blue" SetsValue="true">
+      <Value xsi:type="xsd:int">255</Value>
+    </Variable>
+    <Variable Type="int" Name="Delete1Text.Green" SetsValue="true">
+      <Value xsi:type="xsd:int">255</Value>
+    </Variable>
+    <Variable Type="string" Name="Delete1Text.Parent" SetsValue="true">
+      <Value xsi:type="xsd:string">Delete1</Value>
+    </Variable>
+    <Variable Type="int" Name="Delete1Text.Red" SetsValue="true">
+      <Value xsi:type="xsd:int">255</Value>
+    </Variable>
+    <Variable Type="string" Name="Delete1Text.Text" SetsValue="true">
+      <Value xsi:type="xsd:string">Delete</Value>
+    </Variable>
+    <Variable Type="float" Name="Delete1Text.X" SetsValue="true">
+      <Value xsi:type="xsd:float">12</Value>
+    </Variable>
+    <Variable Type="float" Name="Delete1Text.Y" SetsValue="true">
+      <Value xsi:type="xsd:float">12</Value>
+    </Variable>
+    <Variable Type="int" Name="Delete2.Blue" SetsValue="true">
+      <Value xsi:type="xsd:int">0</Value>
+    </Variable>
+    <Variable Type="int" Name="Delete2.Green" SetsValue="true">
+      <Value xsi:type="xsd:int">197</Value>
+    </Variable>
+    <Variable Type="string" Name="Delete2.Parent" SetsValue="true">
+      <Value xsi:type="xsd:string">Panel</Value>
+    </Variable>
+    <Variable Type="int" Name="Delete2.Red" SetsValue="true">
+      <Value xsi:type="xsd:int">255</Value>
+    </Variable>
+    <Variable Type="float" Name="Delete2.Width" SetsValue="true">
+      <Value xsi:type="xsd:float">136</Value>
+    </Variable>
+    <Variable Type="float" Name="Delete2.X" SetsValue="true">
+      <Value xsi:type="xsd:float">480</Value>
+    </Variable>
+    <Variable Type="float" Name="Delete2.Y" SetsValue="true">
+      <Value xsi:type="xsd:float">132</Value>
+    </Variable>
+    <Variable Type="string" Name="Delete2Text.Parent" SetsValue="true">
+      <Value xsi:type="xsd:string">Delete2</Value>
+    </Variable>
+    <Variable Type="string" Name="Delete2Text.Text" SetsValue="true">
+      <Value xsi:type="xsd:string">Delete</Value>
+    </Variable>
+    <Variable Type="float" Name="Delete2Text.X" SetsValue="true">
+      <Value xsi:type="xsd:float">12</Value>
+    </Variable>
+    <Variable Type="float" Name="Delete2Text.Y" SetsValue="true">
+      <Value xsi:type="xsd:float">12</Value>
+    </Variable>
+    <Variable Type="int" Name="Delete3.Blue" SetsValue="true">
+      <Value xsi:type="xsd:int">0</Value>
+    </Variable>
+    <Variable Type="int" Name="Delete3.Green" SetsValue="true">
+      <Value xsi:type="xsd:int">197</Value>
+    </Variable>
+    <Variable Type="string" Name="Delete3.Parent" SetsValue="true">
+      <Value xsi:type="xsd:string">Panel</Value>
+    </Variable>
+    <Variable Type="int" Name="Delete3.Red" SetsValue="true">
+      <Value xsi:type="xsd:int">255</Value>
+    </Variable>
+    <Variable Type="float" Name="Delete3.Width" SetsValue="true">
+      <Value xsi:type="xsd:float">136</Value>
+    </Variable>
+    <Variable Type="float" Name="Delete3.X" SetsValue="true">
+      <Value xsi:type="xsd:float">480</Value>
+    </Variable>
+    <Variable Type="float" Name="Delete3.Y" SetsValue="true">
+      <Value xsi:type="xsd:float">184</Value>
+    </Variable>
+    <Variable Type="string" Name="Delete3Text.Parent" SetsValue="true">
+      <Value xsi:type="xsd:string">Delete3</Value>
+    </Variable>
+    <Variable Type="string" Name="Delete3Text.Text" SetsValue="true">
+      <Value xsi:type="xsd:string">Delete</Value>
+    </Variable>
+    <Variable Type="float" Name="Delete3Text.X" SetsValue="true">
+      <Value xsi:type="xsd:float">12</Value>
+    </Variable>
+    <Variable Type="float" Name="Delete3Text.Y" SetsValue="true">
+      <Value xsi:type="xsd:float">12</Value>
+    </Variable>
+    <Variable Type="int" Name="Delete4.Blue" SetsValue="true">
+      <Value xsi:type="xsd:int">0</Value>
+    </Variable>
+    <Variable Type="int" Name="Delete4.Green" SetsValue="true">
+      <Value xsi:type="xsd:int">197</Value>
+    </Variable>
+    <Variable Type="string" Name="Delete4.Parent" SetsValue="true">
+      <Value xsi:type="xsd:string">Panel</Value>
+    </Variable>
+    <Variable Type="int" Name="Delete4.Red" SetsValue="true">
+      <Value xsi:type="xsd:int">255</Value>
+    </Variable>
+    <Variable Type="float" Name="Delete4.Width" SetsValue="true">
+      <Value xsi:type="xsd:float">136</Value>
+    </Variable>
+    <Variable Type="float" Name="Delete4.X" SetsValue="true">
+      <Value xsi:type="xsd:float">480</Value>
+    </Variable>
+    <Variable Type="float" Name="Delete4.Y" SetsValue="true">
+      <Value xsi:type="xsd:float">236</Value>
+    </Variable>
+    <Variable Type="string" Name="Delete4Text.Parent" SetsValue="true">
+      <Value xsi:type="xsd:string">Delete4</Value>
+    </Variable>
+    <Variable Type="string" Name="Delete4Text.Text" SetsValue="true">
+      <Value xsi:type="xsd:string">Delete</Value>
+    </Variable>
+    <Variable Type="float" Name="Delete4Text.X" SetsValue="true">
+      <Value xsi:type="xsd:float">12</Value>
+    </Variable>
+    <Variable Type="float" Name="Delete4Text.Y" SetsValue="true">
+      <Value xsi:type="xsd:float">12</Value>
+    </Variable>
+    <Variable Type="int" Name="Delete5.Blue" SetsValue="true">
+      <Value xsi:type="xsd:int">0</Value>
+    </Variable>
+    <Variable Type="int" Name="Delete5.Green" SetsValue="true">
+      <Value xsi:type="xsd:int">197</Value>
+    </Variable>
+    <Variable Type="string" Name="Delete5.Parent" SetsValue="true">
+      <Value xsi:type="xsd:string">Panel</Value>
+    </Variable>
+    <Variable Type="int" Name="Delete5.Red" SetsValue="true">
+      <Value xsi:type="xsd:int">255</Value>
+    </Variable>
+    <Variable Type="float" Name="Delete5.Width" SetsValue="true">
+      <Value xsi:type="xsd:float">136</Value>
+    </Variable>
+    <Variable Type="float" Name="Delete5.X" SetsValue="true">
+      <Value xsi:type="xsd:float">480</Value>
+    </Variable>
+    <Variable Type="float" Name="Delete5.Y" SetsValue="true">
+      <Value xsi:type="xsd:float">288</Value>
+    </Variable>
+    <Variable Type="string" Name="Delete5Text.Parent" SetsValue="true">
+      <Value xsi:type="xsd:string">Delete5</Value>
+    </Variable>
+    <Variable Type="string" Name="Delete5Text.Text" SetsValue="true">
+      <Value xsi:type="xsd:string">Delete</Value>
+    </Variable>
+    <Variable Type="float" Name="Delete5Text.X" SetsValue="true">
+      <Value xsi:type="xsd:float">12</Value>
+    </Variable>
+    <Variable Type="float" Name="Delete5Text.Y" SetsValue="true">
+      <Value xsi:type="xsd:float">12</Value>
+    </Variable>
+    <Variable Type="int" Name="Delete6.Blue" SetsValue="true">
+      <Value xsi:type="xsd:int">0</Value>
+    </Variable>
+    <Variable Type="int" Name="Delete6.Green" SetsValue="true">
+      <Value xsi:type="xsd:int">197</Value>
+    </Variable>
+    <Variable Type="string" Name="Delete6.Parent" SetsValue="true">
+      <Value xsi:type="xsd:string">Panel</Value>
+    </Variable>
+    <Variable Type="int" Name="Delete6.Red" SetsValue="true">
+      <Value xsi:type="xsd:int">255</Value>
+    </Variable>
+    <Variable Type="float" Name="Delete6.Width" SetsValue="true">
+      <Value xsi:type="xsd:float">136</Value>
+    </Variable>
+    <Variable Type="float" Name="Delete6.X" SetsValue="true">
+      <Value xsi:type="xsd:float">480</Value>
+    </Variable>
+    <Variable Type="float" Name="Delete6.Y" SetsValue="true">
+      <Value xsi:type="xsd:float">340</Value>
+    </Variable>
+    <Variable Type="string" Name="Delete6Text.Parent" SetsValue="true">
+      <Value xsi:type="xsd:string">Delete6</Value>
+    </Variable>
+    <Variable Type="string" Name="Delete6Text.Text" SetsValue="true">
+      <Value xsi:type="xsd:string">Delete</Value>
+    </Variable>
+    <Variable Type="float" Name="Delete6Text.X" SetsValue="true">
+      <Value xsi:type="xsd:float">12</Value>
+    </Variable>
+    <Variable Type="float" Name="Delete6Text.Y" SetsValue="true">
+      <Value xsi:type="xsd:float">12</Value>
+    </Variable>
+    <Variable Type="int" Name="NameField.Blue" SetsValue="true">
+      <Value xsi:type="xsd:int">0</Value>
+    </Variable>
+    <Variable Type="int" Name="NameField.Green" SetsValue="true">
+      <Value xsi:type="xsd:int">197</Value>
+    </Variable>
+    <Variable Type="float" Name="NameField.Height" SetsValue="true">
+      <Value xsi:type="xsd:float">44</Value>
+    </Variable>
+    <Variable Type="string" Name="NameField.Parent" SetsValue="true">
+      <Value xsi:type="xsd:string">Panel</Value>
+    </Variable>
+    <Variable Type="int" Name="NameField.Red" SetsValue="true">
+      <Value xsi:type="xsd:int">255</Value>
+    </Variable>
+    <Variable Type="float" Name="NameField.Width" SetsValue="true">
+      <Value xsi:type="xsd:float">592</Value>
+    </Variable>
+    <Variable Type="float" Name="NameField.X" SetsValue="true">
+      <Value xsi:type="xsd:float">26</Value>
+    </Variable>
+    <Variable Type="float" Name="NameField.Y" SetsValue="true">
+      <Value xsi:type="xsd:float">395</Value>
+    </Variable>
+    <Variable Type="float" Name="NameText.Height" SetsValue="true">
+      <Value xsi:type="xsd:float">26</Value>
+    </Variable>
+    <Variable Type="string" Name="NameText.Parent" SetsValue="true">
+      <Value xsi:type="xsd:string">NameField</Value>
+    </Variable>
+    <Variable Type="string" Name="NameText.Text" SetsValue="true">
+      <Value xsi:type="xsd:string">Name: _</Value>
+    </Variable>
+    <Variable Type="float" Name="NameText.Width" SetsValue="true">
+      <Value xsi:type="xsd:float">512</Value>
+    </Variable>
+    <Variable Type="float" Name="NameText.X" SetsValue="true">
+      <Value xsi:type="xsd:float">18</Value>
+    </Variable>
+    <Variable Type="float" Name="NameText.Y" SetsValue="true">
+      <Value xsi:type="xsd:float">10</Value>
+    </Variable>
+    <Variable Type="int" Name="NewButton.Blue" SetsValue="true">
+      <Value xsi:type="xsd:int">0</Value>
+    </Variable>
+    <Variable Type="int" Name="NewButton.Green" SetsValue="true">
+      <Value xsi:type="xsd:int">197</Value>
+    </Variable>
+    <Variable Type="string" Name="NewButton.Parent" SetsValue="true">
+      <Value xsi:type="xsd:string">Panel</Value>
+    </Variable>
+    <Variable Type="int" Name="NewButton.Red" SetsValue="true">
+      <Value xsi:type="xsd:int">255</Value>
+    </Variable>
+    <Variable Type="float" Name="NewButton.Width" SetsValue="true">
+      <Value xsi:type="xsd:float">260</Value>
+    </Variable>
+    <Variable Type="float" Name="NewButton.X" SetsValue="true">
+      <Value xsi:type="xsd:float">24</Value>
+    </Variable>
+    <Variable Type="float" Name="NewButton.Y" SetsValue="true">
+      <Value xsi:type="xsd:float">450</Value>
+    </Variable>
+    <Variable Type="string" Name="NewText.Parent" SetsValue="true">
+      <Value xsi:type="xsd:string">NewButton</Value>
+    </Variable>
+    <Variable Type="string" Name="NewText.Text" SetsValue="true">
+      <Value xsi:type="xsd:string">New World</Value>
+    </Variable>
+    <Variable Type="float" Name="NewText.X" SetsValue="true">
+      <Value xsi:type="xsd:float">70</Value>
+    </Variable>
+    <Variable Type="float" Name="NewText.Y" SetsValue="true">
+      <Value xsi:type="xsd:float">12</Value>
+    </Variable>
+    <Variable Type="int" Name="Panel.Blue" SetsValue="true">
+      <Value xsi:type="xsd:int">0</Value>
+    </Variable>
+    <Variable Type="int" Name="Panel.Green" SetsValue="true">
+      <Value xsi:type="xsd:int">0</Value>
+    </Variable>
+    <Variable Type="float" Name="Panel.Height" SetsValue="true">
+      <Value xsi:type="xsd:float">520</Value>
+    </Variable>
+    <Variable Type="int" Name="Panel.Red" SetsValue="true">
+      <Value xsi:type="xsd:int">0</Value>
+    </Variable>
+    <Variable Type="float" Name="Panel.Width" SetsValue="true">
+      <Value xsi:type="xsd:float">640</Value>
+    </Variable>
+    <Variable Type="float" Name="Panel.X" SetsValue="true">
+      <Value xsi:type="xsd:float">2</Value>
+    </Variable>
+    <Variable Type="HorizontalAlignment" Name="Panel.XOrigin" SetsValue="true">
+      <Value xsi:type="xsd:int">1</Value>
+    </Variable>
+    <Variable Type="PositionUnitType" Name="Panel.XUnits" SetsValue="true">
+      <Value xsi:type="xsd:int">6</Value>
+    </Variable>
+    <Variable Type="float" Name="Panel.Y" SetsValue="true">
+      <Value xsi:type="xsd:float">11</Value>
+    </Variable>
+    <Variable Type="VerticalAlignment" Name="Panel.YOrigin" SetsValue="true">
+      <Value xsi:type="xsd:int">1</Value>
+    </Variable>
+    <Variable Type="PositionUnitType" Name="Panel.YUnits" SetsValue="true">
+      <Value xsi:type="xsd:int">7</Value>
+    </Variable>
+    <Variable Type="int" Name="Row1.Blue" SetsValue="true">
+      <Value xsi:type="xsd:int">0</Value>
+    </Variable>
+    <Variable Type="int" Name="Row1.Green" SetsValue="true">
+      <Value xsi:type="xsd:int">197</Value>
+    </Variable>
+    <Variable Type="string" Name="Row1.Parent" SetsValue="true">
+      <Value xsi:type="xsd:string">Panel</Value>
+    </Variable>
+    <Variable Type="int" Name="Row1.Red" SetsValue="true">
+      <Value xsi:type="xsd:int">255</Value>
+    </Variable>
+    <Variable Type="float" Name="Row1.Width" SetsValue="true">
+      <Value xsi:type="xsd:float">440</Value>
+    </Variable>
+    <Variable Type="float" Name="Row1.X" SetsValue="true">
+      <Value xsi:type="xsd:float">24</Value>
+    </Variable>
+    <Variable Type="float" Name="Row1.Y" SetsValue="true">
+      <Value xsi:type="xsd:float">80</Value>
+    </Variable>
+    <Variable Type="float" Name="Row1Text.Height" SetsValue="true">
+      <Value xsi:type="xsd:float">28</Value>
+    </Variable>
+    <Variable Type="string" Name="Row1Text.Parent" SetsValue="true">
+      <Value xsi:type="xsd:string">Row1</Value>
+    </Variable>
+    <Variable Type="string" Name="Row1Text.Text" SetsValue="true">
+      <Value xsi:type="xsd:string">World</Value>
+    </Variable>
+    <Variable Type="float" Name="Row1Text.Width" SetsValue="true">
+      <Value xsi:type="xsd:float">393</Value>
+    </Variable>
+    <Variable Type="float" Name="Row1Text.X" SetsValue="true">
+      <Value xsi:type="xsd:float">21</Value>
+    </Variable>
+    <Variable Type="float" Name="Row1Text.Y" SetsValue="true">
+      <Value xsi:type="xsd:float">14</Value>
+    </Variable>
+    <Variable Type="int" Name="Row2.Blue" SetsValue="true">
+      <Value xsi:type="xsd:int">0</Value>
+    </Variable>
+    <Variable Type="int" Name="Row2.Green" SetsValue="true">
+      <Value xsi:type="xsd:int">197</Value>
+    </Variable>
+    <Variable Type="string" Name="Row2.Parent" SetsValue="true">
+      <Value xsi:type="xsd:string">Panel</Value>
+    </Variable>
+    <Variable Type="int" Name="Row2.Red" SetsValue="true">
+      <Value xsi:type="xsd:int">255</Value>
+    </Variable>
+    <Variable Type="float" Name="Row2.Width" SetsValue="true">
+      <Value xsi:type="xsd:float">440</Value>
+    </Variable>
+    <Variable Type="float" Name="Row2.X" SetsValue="true">
+      <Value xsi:type="xsd:float">24</Value>
+    </Variable>
+    <Variable Type="float" Name="Row2.Y" SetsValue="true">
+      <Value xsi:type="xsd:float">132</Value>
+    </Variable>
+    <Variable Type="float" Name="Row2Text.Height" SetsValue="true">
+      <Value xsi:type="xsd:float">25</Value>
+    </Variable>
+    <Variable Type="string" Name="Row2Text.Parent" SetsValue="true">
+      <Value xsi:type="xsd:string">Row2</Value>
+    </Variable>
+    <Variable Type="string" Name="Row2Text.Text" SetsValue="true">
+      <Value xsi:type="xsd:string">World</Value>
+    </Variable>
+    <Variable Type="float" Name="Row2Text.Width" SetsValue="true">
+      <Value xsi:type="xsd:float">418</Value>
+    </Variable>
+    <Variable Type="float" Name="Row2Text.X" SetsValue="true">
+      <Value xsi:type="xsd:float">12</Value>
+    </Variable>
+    <Variable Type="float" Name="Row2Text.Y" SetsValue="true">
+      <Value xsi:type="xsd:float">12</Value>
+    </Variable>
+    <Variable Type="int" Name="Row3.Blue" SetsValue="true">
+      <Value xsi:type="xsd:int">0</Value>
+    </Variable>
+    <Variable Type="int" Name="Row3.Green" SetsValue="true">
+      <Value xsi:type="xsd:int">197</Value>
+    </Variable>
+    <Variable Type="string" Name="Row3.Parent" SetsValue="true">
+      <Value xsi:type="xsd:string">Panel</Value>
+    </Variable>
+    <Variable Type="int" Name="Row3.Red" SetsValue="true">
+      <Value xsi:type="xsd:int">255</Value>
+    </Variable>
+    <Variable Type="float" Name="Row3.Width" SetsValue="true">
+      <Value xsi:type="xsd:float">440</Value>
+    </Variable>
+    <Variable Type="float" Name="Row3.X" SetsValue="true">
+      <Value xsi:type="xsd:float">24</Value>
+    </Variable>
+    <Variable Type="float" Name="Row3.Y" SetsValue="true">
+      <Value xsi:type="xsd:float">184</Value>
+    </Variable>
+    <Variable Type="float" Name="Row3Text.Height" SetsValue="true">
+      <Value xsi:type="xsd:float">32</Value>
+    </Variable>
+    <Variable Type="string" Name="Row3Text.Parent" SetsValue="true">
+      <Value xsi:type="xsd:string">Row3</Value>
+    </Variable>
+    <Variable Type="string" Name="Row3Text.Text" SetsValue="true">
+      <Value xsi:type="xsd:string">World</Value>
+    </Variable>
+    <Variable Type="float" Name="Row3Text.Width" SetsValue="true">
+      <Value xsi:type="xsd:float">425</Value>
+    </Variable>
+    <Variable Type="float" Name="Row3Text.X" SetsValue="true">
+      <Value xsi:type="xsd:float">12</Value>
+    </Variable>
+    <Variable Type="float" Name="Row3Text.Y" SetsValue="true">
+      <Value xsi:type="xsd:float">12</Value>
+    </Variable>
+    <Variable Type="int" Name="Row4.Blue" SetsValue="true">
+      <Value xsi:type="xsd:int">0</Value>
+    </Variable>
+    <Variable Type="int" Name="Row4.Green" SetsValue="true">
+      <Value xsi:type="xsd:int">197</Value>
+    </Variable>
+    <Variable Type="string" Name="Row4.Parent" SetsValue="true">
+      <Value xsi:type="xsd:string">Panel</Value>
+    </Variable>
+    <Variable Type="int" Name="Row4.Red" SetsValue="true">
+      <Value xsi:type="xsd:int">255</Value>
+    </Variable>
+    <Variable Type="float" Name="Row4.Width" SetsValue="true">
+      <Value xsi:type="xsd:float">440</Value>
+    </Variable>
+    <Variable Type="float" Name="Row4.X" SetsValue="true">
+      <Value xsi:type="xsd:float">24</Value>
+    </Variable>
+    <Variable Type="float" Name="Row4.Y" SetsValue="true">
+      <Value xsi:type="xsd:float">236</Value>
+    </Variable>
+    <Variable Type="float" Name="Row4Text.Height" SetsValue="true">
+      <Value xsi:type="xsd:float">21</Value>
+    </Variable>
+    <Variable Type="string" Name="Row4Text.Parent" SetsValue="true">
+      <Value xsi:type="xsd:string">Row4</Value>
+    </Variable>
+    <Variable Type="string" Name="Row4Text.Text" SetsValue="true">
+      <Value xsi:type="xsd:string">World</Value>
+    </Variable>
+    <Variable Type="float" Name="Row4Text.Width" SetsValue="true">
+      <Value xsi:type="xsd:float">409</Value>
+    </Variable>
+    <Variable Type="float" Name="Row4Text.X" SetsValue="true">
+      <Value xsi:type="xsd:float">12</Value>
+    </Variable>
+    <Variable Type="float" Name="Row4Text.Y" SetsValue="true">
+      <Value xsi:type="xsd:float">11</Value>
+    </Variable>
+    <Variable Type="int" Name="Row5.Blue" SetsValue="true">
+      <Value xsi:type="xsd:int">0</Value>
+    </Variable>
+    <Variable Type="int" Name="Row5.Green" SetsValue="true">
+      <Value xsi:type="xsd:int">197</Value>
+    </Variable>
+    <Variable Type="string" Name="Row5.Parent" SetsValue="true">
+      <Value xsi:type="xsd:string">Panel</Value>
+    </Variable>
+    <Variable Type="int" Name="Row5.Red" SetsValue="true">
+      <Value xsi:type="xsd:int">255</Value>
+    </Variable>
+    <Variable Type="float" Name="Row5.Width" SetsValue="true">
+      <Value xsi:type="xsd:float">440</Value>
+    </Variable>
+    <Variable Type="float" Name="Row5.X" SetsValue="true">
+      <Value xsi:type="xsd:float">24</Value>
+    </Variable>
+    <Variable Type="float" Name="Row5.Y" SetsValue="true">
+      <Value xsi:type="xsd:float">288</Value>
+    </Variable>
+    <Variable Type="float" Name="Row5Text.Height" SetsValue="true">
+      <Value xsi:type="xsd:float">30</Value>
+    </Variable>
+    <Variable Type="string" Name="Row5Text.Parent" SetsValue="true">
+      <Value xsi:type="xsd:string">Row5</Value>
+    </Variable>
+    <Variable Type="string" Name="Row5Text.Text" SetsValue="true">
+      <Value xsi:type="xsd:string">World</Value>
+    </Variable>
+    <Variable Type="float" Name="Row5Text.Width" SetsValue="true">
+      <Value xsi:type="xsd:float">409</Value>
+    </Variable>
+    <Variable Type="float" Name="Row5Text.X" SetsValue="true">
+      <Value xsi:type="xsd:float">12</Value>
+    </Variable>
+    <Variable Type="float" Name="Row5Text.Y" SetsValue="true">
+      <Value xsi:type="xsd:float">12</Value>
+    </Variable>
+    <Variable Type="int" Name="Row6.Blue" SetsValue="true">
+      <Value xsi:type="xsd:int">0</Value>
+    </Variable>
+    <Variable Type="int" Name="Row6.Green" SetsValue="true">
+      <Value xsi:type="xsd:int">197</Value>
+    </Variable>
+    <Variable Type="string" Name="Row6.Parent" SetsValue="true">
+      <Value xsi:type="xsd:string">Panel</Value>
+    </Variable>
+    <Variable Type="int" Name="Row6.Red" SetsValue="true">
+      <Value xsi:type="xsd:int">255</Value>
+    </Variable>
+    <Variable Type="float" Name="Row6.Width" SetsValue="true">
+      <Value xsi:type="xsd:float">440</Value>
+    </Variable>
+    <Variable Type="float" Name="Row6.X" SetsValue="true">
+      <Value xsi:type="xsd:float">24</Value>
+    </Variable>
+    <Variable Type="float" Name="Row6.Y" SetsValue="true">
+      <Value xsi:type="xsd:float">340</Value>
+    </Variable>
+    <Variable Type="float" Name="Row6Text.Height" SetsValue="true">
+      <Value xsi:type="xsd:float">17</Value>
+    </Variable>
+    <Variable Type="string" Name="Row6Text.Parent" SetsValue="true">
+      <Value xsi:type="xsd:string">Row6</Value>
+    </Variable>
+    <Variable Type="string" Name="Row6Text.Text" SetsValue="true">
+      <Value xsi:type="xsd:string">World</Value>
+    </Variable>
+    <Variable Type="float" Name="Row6Text.Width" SetsValue="true">
+      <Value xsi:type="xsd:float">403</Value>
+    </Variable>
+    <Variable Type="float" Name="Row6Text.X" SetsValue="true">
+      <Value xsi:type="xsd:float">12</Value>
+    </Variable>
+    <Variable Type="float" Name="Row6Text.Y" SetsValue="true">
+      <Value xsi:type="xsd:float">12</Value>
+    </Variable>
+    <Variable Type="string" Name="TitleText.Parent" SetsValue="true">
+      <Value xsi:type="xsd:string">Panel</Value>
+    </Variable>
+    <Variable Type="string" Name="TitleText.Text" SetsValue="true">
+      <Value xsi:type="xsd:string">Select World</Value>
+    </Variable>
+    <Variable Type="float" Name="TitleText.Width" SetsValue="true">
+      <Value xsi:type="xsd:float">106</Value>
+    </Variable>
+    <Variable Type="float" Name="TitleText.X" SetsValue="true">
+      <Value xsi:type="xsd:float">250</Value>
+    </Variable>
+    <Variable Type="float" Name="TitleText.Y" SetsValue="true">
+      <Value xsi:type="xsd:float">34</Value>
+    </Variable>
+  </State>
+  <Instance Name="Panel" BaseType="Background" />
+  <Instance Name="TitleText" BaseType="Text" />
+  <Instance Name="Row1" BaseType="Button" />
+  <Instance Name="Row1Text" BaseType="Text" />
+  <Instance Name="Delete1" BaseType="Button" />
+  <Instance Name="Delete1Text" BaseType="Text" />
+  <Instance Name="Row2" BaseType="Button" />
+  <Instance Name="Row2Text" BaseType="Text" />
+  <Instance Name="Delete2" BaseType="Button" />
+  <Instance Name="Delete2Text" BaseType="Text" />
+  <Instance Name="Row3" BaseType="Button" />
+  <Instance Name="Row3Text" BaseType="Text" />
+  <Instance Name="Delete3" BaseType="Button" />
+  <Instance Name="Delete3Text" BaseType="Text" />
+  <Instance Name="Row4" BaseType="Button" />
+  <Instance Name="Row4Text" BaseType="Text" />
+  <Instance Name="Delete4" BaseType="Button" />
+  <Instance Name="Delete4Text" BaseType="Text" />
+  <Instance Name="Row5" BaseType="Button" />
+  <Instance Name="Row5Text" BaseType="Text" />
+  <Instance Name="Delete5" BaseType="Button" />
+  <Instance Name="Delete5Text" BaseType="Text" />
+  <Instance Name="Row6" BaseType="Button" />
+  <Instance Name="Row6Text" BaseType="Text" />
+  <Instance Name="Delete6" BaseType="Button" />
+  <Instance Name="Delete6Text" BaseType="Text" />
+  <Instance Name="NameField" BaseType="Background" />
+  <Instance Name="NameText" BaseType="Text" />
+  <Instance Name="NewButton" BaseType="Button" />
+  <Instance Name="NewText" BaseType="Text" />
+  <Instance Name="CloseButton" BaseType="Button" />
+  <Instance Name="CloseText" BaseType="Text" />
+  <Behaviors />
+</ScreenSave>
